@@ -9,7 +9,7 @@
              
             "><a rel="noopener noreferrer" class="relative group block cursor-pointer pointer-events-auto
                 origin-left
-              " href="affordable-land.html">
+              " href="#">
             <div
               class="jsx-1d2245041db79278 h-28 w-28 md:w-36 md:h-36 lg:h-48 lg:w-48 xl:w-72 xl:h-72 flex items-center  sm:justify-center">
               <div class="jsx-1d2245041db79278 inset-0 rounded-lg
@@ -43,7 +43,7 @@
              
             "><a rel="noopener noreferrer" class="relative group block cursor-pointer pointer-events-auto
                 origin-right
-              " href="mergers-acquisitions.html">
+              " href="#">
             <div
               class="jsx-1d2245041db79278 h-28 w-28 md:w-36 md:h-36 lg:h-48 lg:w-48 xl:w-72 xl:h-72 flex items-center  sm:justify-center">
               <div class="jsx-1d2245041db79278 inset-0 rounded-lg
@@ -94,7 +94,7 @@
                 width="303" height="61" decoding="async" data-nimg="1" class="object-contain" style="color:transparent"
                 srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FwebinarButton.4c5390b5.webp&amp;w=384&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FwebinarButton.4c5390b5.webp&amp;w=640&amp;q=75 2x"
                 src="https://www.egniol.co.in/_next/webinarButton47da.jpeg?url=%2F_next%2Fstatic%2Fmedia%2FwebinarButton.4c5390b5.webp&amp;w=640&amp;q=75" /></button><a
-              class="flex items-center justify-center  md:hidden mt-4 gap-1" href="success-stories.html"><img
+              class="flex items-center justify-center  md:hidden mt-4 gap-1" href="#"><img
                 alt="egniol-customers-review" loading="lazy" width="58" height="26" decoding="async" data-nimg="1"
                 style="color:transparent"
                 srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FcustomerReview.7ffe543f.png&amp;w=64&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FcustomerReview.7ffe543f.png&amp;w=128&amp;q=75 2x"
@@ -104,12 +104,12 @@
             </a></div>
           <div class="max-w-7xl mx-auto md:block hidden  pb-8 z-40 mt-8 lg:mt-14 px-4">
             <div class="grid grid-cols-2 gap-3 xl:gap-6"><a class="relative w-full h-full"
-                href="awards-and-recognition.html"><img alt="the-economic-times-msme-growth-award" fetchPriority="high"
+                href="#"><img alt="the-economic-times-msme-growth-award" fetchPriority="high"
                   width="732" height="557" decoding="async" data-nimg="1"
                   class="w-full h-full object-contain rounded-lg" style="color:transparent"
                   srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FdvAwards1.136a998b.webp&amp;w=750&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FdvAwards1.136a998b.webp&amp;w=1920&amp;q=75 2x"
                   src="https://www.egniol.co.in/_next/dvAwards1b21a.jpeg?url=%2F_next%2Fstatic%2Fmedia%2FdvAwards1.136a998b.webp&amp;w=1920&amp;q=75" /></a><a
-                class="relative w-full h-full" href="awards-and-recognition.html"><img
+                class="relative w-full h-full" href="#"><img
                   alt="msme-ecosystem-award-zee-maha-sanman-2025" fetchPriority="high" width="732" height="557"
                   decoding="async" data-nimg="1" class="w-full h-full object-contain rounded-lg"
                   style="color:transparent"
@@ -128,7 +128,7 @@
                       style="width:20%">
                       <div>
                         <div class tabindex="-1" style="width:100%;display:inline-block"><a
-                            href="awards-and-recognition.html" class="w-full block"><img alt="msme growth partner"
+                            href="#" class="w-full block"><img alt="msme growth partner"
                               fetchPriority="high" width="412" height="287" decoding="async" data-nimg="1"
                               class="rounded-2xl" style="color:transparent" sizes="(max-width: 768px) 100vw, 412px"
                               srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=3840&amp;q=75 3840w"
@@ -140,7 +140,7 @@
                       style="outline:none;width:20%">
                       <div>
                         <div class tabindex="-1" style="width:100%;display:inline-block"><a
-                            href="awards-and-recognition.html" class="w-full block"><img alt="msme award"
+                            href="#" class="w-full block"><img alt="msme award"
                               fetchPriority="high" width="412" height="287" decoding="async" data-nimg="1"
                               class="rounded-2xl" style="color:transparent" sizes="(max-width: 768px) 100vw, 412px"
                               srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=3840&amp;q=75 3840w"
@@ -152,7 +152,7 @@
                       style="outline:none;width:20%">
                       <div>
                         <div class tabindex="-1" style="width:100%;display:inline-block"><a
-                            href="awards-and-recognition.html" class="w-full block"><img alt="msme growth partner"
+                            href="#" class="w-full block"><img alt="msme growth partner"
                               fetchPriority="high" width="412" height="287" decoding="async" data-nimg="1"
                               class="rounded-2xl" style="color:transparent" sizes="(max-width: 768px) 100vw, 412px"
                               srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=750&amp;q=75 750w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=3840&amp;q=75 3840w"
@@ -164,7 +164,7 @@
                       style="width:20%">
                       <div>
                         <div class tabindex="-1" style="width:100%;display:inline-block"><a
-                            href="awards-and-recognition.html" class="w-full block"><img alt="msme award"
+                            href="#" class="w-full block"><img alt="msme award"
                               fetchPriority="high" width="412" height="287" decoding="async" data-nimg="1"
                               class="rounded-2xl" style="color:transparent" sizes="(max-width: 768px) 100vw, 412px"
                               srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=3840&amp;q=75 3840w"
@@ -176,7 +176,7 @@
                       style="width:20%">
                       <div>
                         <div class tabindex="-1" style="width:100%;display:inline-block"><a
-                            href="awards-and-recognition.html" class="w-full block"><img alt="msme growth partner"
+                            href="#" class="w-full block"><img alt="msme growth partner"
                               fetchPriority="high" width="412" height="287" decoding="async" data-nimg="1"
                               class="rounded-2xl" style="color:transparent" sizes="(max-width: 768px) 100vw, 412px"
                               srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=3840&amp;q=75 3840w"
@@ -231,130 +231,130 @@
             <div class="jsx-a40bf992ac80d748 w-full bg-[#EE4523] overflow-hidden h-full relative">
               <div class="jsx-a40bf992ac80d748 inline-flex animate-scroll-left gap-4 h-full items-center"><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="blogs/pmegp-loan-scheme.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>PMEGP
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>PMEGP
                   Scheme</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="blogs/textile-grant-in-india.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Textile
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Textile
                   MSME Grant</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="blogs/startup-india-fund.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Startup
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Startup
                   India Seed Fund</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="government-grants.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Government
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Government
                   Grants</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="equity-based-funding.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Equity
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Equity
                   Based Funding</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="nbfc-loan.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>NBFC
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>NBFC
                   Business Loan</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="blogs/startup-india-fund.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Startup
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Startup
                   India Seed Fund Scheme</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="unsecured-business-loans.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Unsecured
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Unsecured
                   Business Loans</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="msme-registration.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>MSME
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>MSME
                   Registration</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="zed-certification.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>ZED
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>ZED
                   Certification</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="digital-marketing-services.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Digital
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Digital
                   Marketing Solutions</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="our-servicesa67c.html?sid=2"><span class="jsx-a40bf992ac80d748 text-white">|</span>Business
+                  href="#?sid=2"><span class="jsx-a40bf992ac80d748 text-white">|</span>Business
                   Growth Programs</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="msme-certification.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>MSME
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>MSME
                   Certification</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="blogs/naif-scheme.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>NAIF
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>NAIF
                   Scheme</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="blogs/pmegp-loan-scheme.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>PMEGP
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>PMEGP
                   Scheme</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="blogs/textile-grant-in-india.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Textile
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Textile
                   MSME Grant</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="blogs/startup-india-fund.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Startup
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Startup
                   India Seed Fund</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="government-grants.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Government
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Government
                   Grants</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="equity-based-funding.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Equity
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Equity
                   Based Funding</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="nbfc-loan.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>NBFC
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>NBFC
                   Business Loan</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="blogs/startup-india-fund.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Startup
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Startup
                   India Seed Fund Scheme</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="unsecured-business-loans.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Unsecured
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Unsecured
                   Business Loans</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="msme-registration.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>MSME
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>MSME
                   Registration</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="zed-certification.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>ZED
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>ZED
                   Certification</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="digital-marketing-services.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Digital
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Digital
                   Marketing Solutions</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="our-servicesa67c.html?sid=2"><span class="jsx-a40bf992ac80d748 text-white">|</span>Business
+                  href="#?sid=2"><span class="jsx-a40bf992ac80d748 text-white">|</span>Business
                   Growth Programs</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="msme-certification.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>MSME
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>MSME
                   Certification</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="blogs/naif-scheme.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>NAIF
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>NAIF
                   Scheme</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="blogs/pmegp-loan-scheme.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>PMEGP
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>PMEGP
                   Scheme</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="blogs/textile-grant-in-india.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Textile
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Textile
                   MSME Grant</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="blogs/startup-india-fund.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Startup
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Startup
                   India Seed Fund</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="government-grants.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Government
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Government
                   Grants</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="equity-based-funding.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Equity
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Equity
                   Based Funding</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="nbfc-loan.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>NBFC
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>NBFC
                   Business Loan</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="blogs/startup-india-fund.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Startup
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Startup
                   India Seed Fund Scheme</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="unsecured-business-loans.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Unsecured
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Unsecured
                   Business Loans</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="msme-registration.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>MSME
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>MSME
                   Registration</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="zed-certification.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>ZED
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>ZED
                   Certification</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="digital-marketing-services.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>Digital
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>Digital
                   Marketing Solutions</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="our-servicesa67c.html?sid=2"><span class="jsx-a40bf992ac80d748 text-white">|</span>Business
+                  href="#?sid=2"><span class="jsx-a40bf992ac80d748 text-white">|</span>Business
                   Growth Programs</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="msme-certification.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>MSME
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>MSME
                   Certification</a><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
-                  href="blogs/naif-scheme.html"><span class="jsx-a40bf992ac80d748 text-white">|</span>NAIF
+                  href="#"><span class="jsx-a40bf992ac80d748 text-white">|</span>NAIF
                   Scheme</a></div>
             </div>
             <div class="jsx-a40bf992ac80d748 
@@ -603,7 +603,7 @@
             </style>
             <div class="w-full px-6"><a
                 class="flex bg-[#03518F] text-white items-center w-full max-w-md text-center justify-center py-3 rounded-xl text-sm mt-6"
-                href="success-stories.html">View All <svg stroke="currentColor" fill="currentColor" stroke-width="0"
+                href="#">View All <svg stroke="currentColor" fill="currentColor" stroke-width="0"
                   viewBox="0 0 24 24" class="text-xl ml-2" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                   <path fill="none" d="M0 0h24v24H0V0z"></path>
                   <path d="M8.59 16.59 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"></path>
@@ -619,7 +619,7 @@
                       alt="Left Arrow" loading="lazy" width="76" height="76" decoding="async" data-nimg="1"
                       style="color:transparent" src="https://www.egniol.co.in/_next/static/media/leftArrow.283cddef.svg" /></button><a
                     class="flex items-center gap-3 text-[#03518f] font-CustomSemiBold mb-4"
-                    style="transform:translateY(0px);opacity:1" href="success-stories.html"><span>View
+                    style="transform:translateY(0px);opacity:1" href="#"><span>View
                       All</span></a><button class><img alt="Right Arrow" loading="lazy" width="76" height="76"
                       decoding="async" data-nimg="1" style="color:transparent"
                       src="https://www.egniol.co.in/_next/static/media/rightArrow.60ad53c6.svg" /></button></div>
@@ -1149,7 +1149,7 @@
               </div>
               <div class="flex justify-center items-center py-8 font-CustomSemiBold"><a
                   class="flex items-center gap-4 text-[#03518f] font-CustomSemiBold"
-                  style="transform:translateY(0px);opacity:1" href="our-services.html"><span>View all</span><svg
+                  style="transform:translateY(0px);opacity:1" href="#"><span>View all</span><svg
                     stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" class="mt-0.5"
                     height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                     <path
@@ -1326,7 +1326,7 @@
                 </div>
               </div><a
                 class="flex bg-[#03518F] text-white items-center w-full max-w-md text-center justify-center py-3 rounded-xl text-xs md:text-sm mt-4 mb-8"
-                href="our-services.html">View All <svg stroke="currentColor" fill="currentColor" stroke-width="0"
+                href="#">View All <svg stroke="currentColor" fill="currentColor" stroke-width="0"
                   viewBox="0 0 24 24" class="text-xl ml-2" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                   <path fill="none" d="M0 0h24v24H0V0z"></path>
                   <path d="M8.59 16.59 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"></path>
@@ -1655,7 +1655,7 @@
             <h2 class="md:hidden text-3xl font-CustomSemiBold text-center mb-10">Our
               Services</h2>
             <div class="grid grid-cols-4 gap-3">
-              <div><a href="our-servicese378.html?sid=1">
+              <div><a href="#?sid=1">
                   <div class="bg-white border border-gray-200 rounded-xl mb-2 flex items-center justify-center p-4"><img
                       alt="Business Setup" loading="lazy" width="42" height="42" decoding="async" data-nimg="1"
                       style="color:transparent"
@@ -1665,7 +1665,7 @@
                   <h2 class="text-xs font-semibold text-center">Business
                     Setup</h2>
                 </a></div>
-              <div><a href="our-servicesa67c.html?sid=2">
+              <div><a href="#?sid=2">
                   <div class="bg-white border border-gray-200 rounded-xl mb-2 flex items-center justify-center p-4"><img
                       alt="Business Growth" loading="lazy" width="42" height="42" decoding="async" data-nimg="1"
                       style="color:transparent"
@@ -1675,7 +1675,7 @@
                   <h2 class="text-xs font-semibold text-center">Business
                     Growth</h2>
                 </a></div>
-              <div><a href="our-services23a3.html?sid=3">
+              <div><a href="#?sid=3">
                   <div class="bg-white border border-gray-200 rounded-xl mb-2 flex items-center justify-center p-4"><img
                       alt="Business Expansion" loading="lazy" width="42" height="42" decoding="async" data-nimg="1"
                       style="color:transparent"
@@ -1685,7 +1685,7 @@
                   <h2 class="text-xs font-semibold text-center">Business
                     Expansion</h2>
                 </a></div>
-              <div><a href="our-services0138.html?sid=4">
+              <div><a href="#?sid=4">
                   <div class="bg-white border border-gray-200 rounded-xl mb-2 flex items-center justify-center p-4"><img
                       alt="Business Protection" loading="lazy" width="42" height="42" decoding="async" data-nimg="1"
                       style="color:transparent"
@@ -1695,7 +1695,7 @@
                   <h2 class="text-xs font-semibold text-center">Business
                     Protection</h2>
                 </a></div>
-              <div><a href="affordable-land.html">
+              <div><a href="#">
                   <div class="bg-white border border-gray-200 rounded-xl mb-2 flex items-center justify-center p-4"><img
                       alt="Affordable Land Banking" loading="lazy" width="42" height="42" decoding="async" data-nimg="1"
                       style="color:transparent"
@@ -1705,7 +1705,7 @@
                   <h2 class="text-xs font-semibold text-center">Affordable Land
                     Banking</h2>
                 </a></div>
-              <div><a href="mergers-acquisitions.html">
+              <div><a href="#">
                   <div class="bg-white border border-gray-200 rounded-xl mb-2 flex items-center justify-center p-4"><img
                       alt="Merger &amp; Acquisition" loading="lazy" width="42" height="42" decoding="async"
                       data-nimg="1" style="color:transparent"
@@ -1715,7 +1715,7 @@
                   <h2 class="text-xs font-semibold text-center">Merger &amp;
                     Acquisition</h2>
                 </a></div>
-              <div><a href="our-servicesd343.html?sid=7">
+              <div><a href="#?sid=7">
                   <div class="bg-white border border-gray-200 rounded-xl mb-2 flex items-center justify-center p-4"><img
                       alt="CRM" loading="lazy" width="42" height="42" decoding="async" data-nimg="1"
                       style="color:transparent"
@@ -1998,7 +1998,7 @@
                     Ahmedabad</p>
                 </div>
               </a><a
-                href="https://www.ahmedabadmirror.com/changing-the-game-egniols-msme-samvaad-leads-the-way-for-indian-small-and-medium-enterprises/81867256.html">
+                href="#">
                 <div class="w-full flex flex-col justify-center items-center md:max-w-[400px] md:mx-auto">
                   <div
                     class="w-full text-center rounded-lg border hover:border-[#03518f] transition-all duration-300 ease-in-out relative card xl:h-[300px] md:h-[150px] h-[150px]">
@@ -2065,7 +2065,7 @@
                     Egniol Is Benefiting The Indian Economy | Section 80IAC of
                     Income Tax Explained...</p>
                 </div>
-              </a><a href="egniol-reviews/index.html">
+              </a><a href="#">
                 <div class="w-full flex flex-col justify-center items-center md:max-w-[400px] md:mx-auto">
                   <div
                     class="w-full text-center rounded-lg border hover:border-[#03518f] transition-all duration-300 ease-in-out relative card xl:h-[300px] md:h-[150px] h-[150px]">
@@ -2082,7 +2082,7 @@
                     40,000+ customers...</p>
                 </div>
               </a><a
-                href="https://www.india.com/money/msmes-take-center-stage-at-vejalpur-startup-festival-2-0-as-focus-shifts-beyond-unicorns-7794526/">
+                href="#">
                 <div class="w-full flex flex-col justify-center items-center md:max-w-[400px] md:mx-auto">
                   <div
                     class="w-full text-center rounded-lg border hover:border-[#03518f] transition-all duration-300 ease-in-out relative card xl:h-[300px] md:h-[150px] h-[150px]">
@@ -2099,7 +2099,7 @@
                     Focus Shifts Beyond Unicorns</p>
                 </div>
               </a><a
-                href="https://timesofindia.indiatimes.com/entertainment/events/egniol-group-of-companies-recognised-for-its-contribution-to-vejalpur-startup-festival-2-0/articleshow/120619163.cms">
+                href="#">
                 <div class="w-full flex flex-col justify-center items-center md:max-w-[400px] md:mx-auto">
                   <div
                     class="w-full text-center rounded-lg border hover:border-[#03518f] transition-all duration-300 ease-in-out relative card xl:h-[300px] md:h-[150px] h-[150px]">
@@ -2118,7 +2118,7 @@
               </a></div>
             <div class="bg-cover bg-center bg-no-repeat w-full items-center pb-4 md:hidden border">
               <div class="overflow-visible cursor-grab min-h-[125px] pl-6"></div>
-              <div class="px-6"><a href="egniol-reviews/index.html"
+              <div class="px-6"><a href="#"
                   class="flex bg-[#03518F] text-white items-center w-full max-w-md text-center justify-center py-3 rounded-xl text-sm">Read
                   Full Story <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24"
                     class="text-xl ml-2" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -2126,7 +2126,7 @@
                     <path d="M8.59 16.59 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"></path>
                   </svg></a></div>
             </div>
-            <div class="text-center my-12 hidden md:block"><a href="egniol-reviews/index.html"
+            <div class="text-center my-12 hidden md:block"><a href="#"
                 class="text-[#03518f] font-CustomSemiBold">See all headlines
                 →</a></div>
           </div>

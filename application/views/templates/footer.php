@@ -21,21 +21,21 @@
         </div>
         <div
           class="jsx-d29f9e427a378b0c hidden md:grid grid-cols-2 md:grid-cols-4 gap-y-2 md:gap-y-6 text-sm md:mr-4 w-2/3">
-          <div class="jsx-d29f9e427a378b0c flex flex-col gap-2"><a href="index.html">Home</a><a
-              href="about-us.html">About us</a><a href="our-services.html">Services</a></div>
+          <div class="jsx-d29f9e427a378b0c flex flex-col gap-2"><a href="#">Home</a><a
+              href="#">About us</a><a href="our-services.html">Services</a></div>
           <div class="jsx-d29f9e427a378b0c flex flex-col gap-2"><a href="#partner-section">Partners</a><a
-              href="success-stories.html">Success Stories</a><a href="experts.html">Experts</a></div>
-          <div class="jsx-d29f9e427a378b0c flex flex-col gap-2"><a href="careers.html">Careers</a><a
-              href="gallery.html">Gallery</a><a href="blogs.html">Blogs</a></div>
-          <div class="jsx-d29f9e427a378b0c flex flex-col gap-2"><a href="success-stories.html">Case studies</a><a
-              href="privacy-policy.html">Privacy policy</a><a href="terms-condition.html">Terms &amp;
+              href="#">Success Stories</a><a href="experts.html">Experts</a></div>
+          <div class="jsx-d29f9e427a378b0c flex flex-col gap-2"><a href="#">Careers</a><a
+              href="#">Gallery</a><a href="blogs.html">Blogs</a></div>
+          <div class="jsx-d29f9e427a378b0c flex flex-col gap-2"><a href="#">Case studies</a><a
+              href="#">Privacy policy</a><a href="#">Terms &amp;
               Conditions</a></div>
         </div>
         <div class="jsx-d29f9e427a378b0c md:hidden flex gap-[45px] my-3">
           <div class="jsx-d29f9e427a378b0c flex flex-col gap-2"><a href="index.html">Home</a><a
-              href="about-us.html">About us</a><a href="our-services.html">Services</a><a href="#partner-section"
+              href="#">About us</a><a href="our-services.html">Services</a><a href="#partner-section"
               class="jsx-d29f9e427a378b0c">Partners</a><a href="success-stories.html">Success Stories</a><a
-              href="gallery.html">Gallery</a></div>
+              href="#">Gallery</a></div>
           <div class="jsx-d29f9e427a378b0c flex flex-col gap-2"><a href="experts.html">Experts</a><a
               href="blogs.html">Blogs</a><a href="contact-us.html">Contact Us</a><a href="careers.html">Careers</a><a
               href="privacy-policy.html">Privacy policy</a><a href="terms-condition.html">Terms &amp;
@@ -47,10 +47,10 @@
             href="https://play.google.com/store/apps/details?id=com.egniolapp&amp;hl=en_IN&amp;pli=1"><img
               alt="egniol-google-play-store-app" loading="lazy" width="134" height="40" decoding="async" data-nimg="1"
               class=" object-contain" style="color:transparent"
-              src="_next/static/media/newplaystore.2e673f5c.svg" /></a><a target="_blank" rel="noopener noreferrer"
+              src="https://www.egniol.co.in/_next/static/media/newplaystore.2e673f5c.svg" /></a><a target="_blank" rel="noopener noreferrer"
             href="https://apps.apple.com/in/app/egniol/id6737470710"><img alt="egniol-ios-app-store" loading="lazy"
               width="134" height="40" decoding="async" data-nimg="1" class=" object-contain" style="color:transparent"
-              src="_next/static/media/newAppStore.92e2e430.svg" /></a></div>
+              src="https://www.egniol.co.in/_next/static/media/newAppStore.92e2e430.svg" /></a></div>
         <div class="jsx-d29f9e427a378b0c w-full md:w-auto">
           <div class="jsx-d29f9e427a378b0c flex items-center"><input type="email"
               placeholder="Enter your email to get latest updates"

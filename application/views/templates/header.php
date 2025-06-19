@@ -74,7 +74,7 @@
   <link rel="preload"href="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1357966710240118" 
     as="script" crossorigin />
   <meta name="msvalidate.01" content="DC61B4AC430FCD499F3B5F4AAD4E6FCF" />
-  <link rel="icon" href="index.html" />
+  <link rel="icon" href="<?php echo base_url();?>" />
   <link rel="preload" href="<?php echo base_url('assets/font/Graphik-Regular-Trial.otf'); ?>" as="font" type="font/otf" crossorigin="anonymous" />
   <!-- <link rel="preload" href="<?php echo base_url('assets/font/Graphik-Semibold-Trial.otf'); ?>" as="font" type="font/otf" crossorigin="anonymous" /> -->
   <meta property="og:type" content="website" />
@@ -82,7 +82,7 @@
     Consultancy, Working Capital Finance In India</title>
   <meta name="description"
     content="Egniol offers customized business loans, MSME financing, and working capital solutions in India, helping businesses grow and long-term success." />
-  <link rel="canonical" href="index.html" />
+  <link rel="canonical" href="<?php echo base_url();?>" />
   <meta property="og:title"
     content="Egniol - Business Loans, MSME Loans Consultancy, Working Capital Finance In India" />
   <meta property="og:description"
@@ -202,7 +202,7 @@
     <div class="absolute flex flex-col justify-center items-center w-full z-30">
       <header
         class="mt-10 mx-6 rounded-full px-4 md:py-3 py-0 flex items-center justify-between w-[90%]  bg-[#ffffff10]"
-        style="border:1px solid #FFFFFF33"><a class="flex space-x-4" href="index.html"><img alt="Egniol" loading="lazy"
+        style="border:1px solid #FFFFFF33"><a class="flex space-x-4" href="#"><img alt="Egniol" loading="lazy"
             width="160" height="40" decoding="async" data-nimg="1" class="ml-2 w-28 md:w-[160px]"
             style="color:transparent"
             srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo2.92cb9549.png&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo2.92cb9549.png&amp;w=384&amp;q=75 2x"
@@ -282,7 +282,7 @@
           </nav>
         </div>
         <div class="flex items-center justify-end space-x-6 md:space-x-8">
-          <div class="hidden lg:block relative"><a class="hidden xl:flex items-center group" href="ai.html">
+          <div class="hidden lg:block relative"><a class="hidden xl:flex items-center group" href="#">
               <div class="relative p-1 rounded-full bg-gradient-to-r from-[#03518F] to-[#0284c7]">
                 <div
                   class="relative flex items-center justify-center bg-[#0f172a] rounded-full p-3 border border-blue-400/20">
@@ -368,7 +368,7 @@
         <div
           class="mysidebar flex flex-col direction-column fixed w-[80%] sm:w-[50%] h-full lg:hide top-0 pt-5 bg-gray-50 transition ease-in-out delay-150 z-50 hidesidebar"
           id="sideBar">
-          <div class="flex justify-between px-5 top-2 cursor-pointer items-center"><a href="index.html" class><img
+          <div class="flex justify-between px-5 top-2 cursor-pointer items-center"><a href="<?php echo base_url();?>" class><img
                 alt="Company Logo" loading="lazy" width="34" height="36" decoding="async" data-nimg="1" class
                 style="color:transparent"
                 srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.38d38346.png&amp;w=48&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.38d38346.png&amp;w=96&amp;q=75 2x"
@@ -384,7 +384,7 @@
           <div class="basis-1 py-1 px-5"><button class type="button"></button></div>
           <div class="basis-1 py-1 text-white text-xl px-3">
             <ul class="space-y-2 font-medium">
-              <li><a href="index.html"
+              <li><a href="<?php echo base_url();?>"
                   class="flex items-center px-2 py-1.5 text-gray-900 rounded-lg hover:bg-gray-100 group"><svg
                     stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 576 512"
                     class="text-gray-600 mr-2" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
@@ -392,7 +392,7 @@
                       d="M280.37 148.26L96 300.11V464a16 16 0 0 0 16 16l112.06-.29a16 16 0 0 0 15.92-16V368a16 16 0 0 1 16-16h64a16 16 0 0 1 16 16v95.64a16 16 0 0 0 16 16.05L464 480a16 16 0 0 0 16-16V300L295.67 148.26a12.19 12.19 0 0 0-15.3 0zM571.6 251.47L488 182.56V44.05a12 12 0 0 0-12-12h-56a12 12 0 0 0-12 12v72.61L318.47 43a48 48 0 0 0-61 0L4.34 251.47a12 12 0 0 0-1.6 16.9l25.5 31A12 12 0 0 0 45.15 301l235.22-193.74a12.19 12.19 0 0 1 15.3 0L530.9 301a12 12 0 0 0 16.9-1.6l25.5-31a12 12 0 0 0-1.7-16.93z">
                     </path>
                   </svg><span class="flex-1 ms-1 whitespace-nowrap">Home</span></a></li>
-              <li><a href="about-us.html">
+              <li><a href="<?php echo base_url();?>pages/about">
                   <div class="flex items-center px-2 py-1.5 text-gray-900 rounded-lg hover:bg-gray-100 group"><svg
                       stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"
                       class="text-gray-600 mr-2" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
@@ -402,7 +402,7 @@
                     </svg><span class="flex-1 ms-1 whitespace-nowrap">About
                       us</span></div>
                 </a></li>
-              <li class="relative"><button
+              <!-- <li class="relative"><button
                   class="flex items-center w-full px-2 py-1.5 text-gray-900 rounded-lg hover:bg-gray-100 group"><svg
                     stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24"
                     class="text-gray-600 mr-2" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
@@ -416,8 +416,8 @@
                     <path
                       d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z">
                     </path>
-                  </svg></button></li>
-              <li><a href="success-stories.html">
+                  </svg></button></li> -->
+              <!-- <li><a href="success-stories.html">
                   <div class="flex items-center px-2 py-1.5 text-gray-900 rounded-lg hover:bg-gray-100 group"><svg
                       stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 640 512"
                       class="text-gray-600 mr-2" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
@@ -426,8 +426,8 @@
                       </path>
                     </svg><span class="flex-1 ms-1 whitespace-nowrap">Success
                       stories</span></div>
-                </a></li>
-              <li><a href="experts.html">
+                </a></li> -->
+              <!-- <li><a href="experts.html">
                   <div class="flex items-center px-2 py-1.5 text-gray-900 rounded-lg hover:bg-gray-100 group"><svg
                       stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512"
                       class="text-gray-600 mr-2" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
@@ -435,8 +435,8 @@
                         d="M224 256c70.7 0 128-57.3 128-128S294.7 0 224 0 96 57.3 96 128s57.3 128 128 128zm95.8 32.6L272 480l-32-136 32-56h-96l32 56-32 136-47.8-191.4C56.9 292 0 350.3 0 422.4V464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48v-41.6c0-72.1-56.9-130.4-128.2-133.8z">
                       </path>
                     </svg><span class="flex-1 ms-1 whitespace-nowrap">Experts</span></div>
-                </a></li>
-              <li><a href="contact-us.html">
+                </a></li> -->
+              <li><a href="<?php echo base_url();?>pages/contact">
                   <div class="flex items-center px-2 py-1.5 text-gray-900 rounded-lg hover:bg-gray-100 group"><svg
                       stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"
                       class="text-gray-600 mr-2" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
@@ -463,14 +463,14 @@
             </ul>
             <div class="flex absolute bottom-14 w-4/5 grid grid-cols-2 gap-3 mt-4 "><a
                 class="flex flex-col justify-between items-center shadow-2xl rounded-lg border"
-                href="msme-samvaad.html"><img alt="msme-samvaad" loading="lazy" width="60" height="40" decoding="async"
+                href="#"><img alt="msme-samvaad" loading="lazy" width="60" height="40" decoding="async"
                   data-nimg="1" class="mt-2 mb-1" style="color:transparent"
-                  src="_next/static/media/msme-samvaad-small-icon.e3732024.svg" /><button
+                  src="https://www.egniol.co.in/_next/static/media/msme-samvaad-small-icon.e3732024.svg" /><button
                   class="text-white rounded-bl-lg rounded-br-lg  bg-[#03518f]   text-[9px] w-full ">Explore
                   Now</button></a><a class="flex flex-col justify-between items-center shadow-2xl rounded-lg border"
-                href="my-msme-house.html"><img alt="my-msme-house" loading="lazy" width="50" height="10"
+                href="#"><img alt="my-msme-house" loading="lazy" width="50" height="10"
                   decoding="async" data-nimg="1" class="mt-1 mb-1" style="color:transparent"
-                  src="_next/static/media/my-msme-house.6394f749.svg" /><button
+                  src="https://www.egniol.co.in/_next/static/media/my-msme-house.6394f749.svg" /><button
                   class="text-white  rounded-bl-lg rounded-br-lg  bg-[#03518f] shadow-2xl drop-shadow-2xl w-full text-[9px] px-3 ">Explore
                   Now</button></a></div>
           </div>
