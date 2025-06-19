@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 Jun 2025 21:55:11 at https://www.egniol.co.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.egniol.co.in/ -O1 "F:\bhupendr" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:56:28	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.egniol.co.in/)
+21:58:46	Warning: 	Permanent Redirect for https://www.egniol.co.in/egniol-reviews/
+21:58:46	Warning: 	File has moved from https://www.egniol.co.in/egniol-reviews/ to /egniol-reviews
+21:58:50	Error: 	"Not Found" (404) at link https://www.egniol.co.in/img/pattern.svg (from https://www.egniol.co.in/_next/static/css/972c2e42908ae062.css)
+21:58:50	Error: 	"Not Found" (404) at link https://www.egniol.co.in/a (from https://connect.facebook.net/en_US/fbevents.js)
+21:58:50	Error: 	"Not Found" (404) at link https://www.egniol.co.in/POST (from https://connect.facebook.net/en_US/fbevents.js)
+21:58:50	Warning: 	Permanent Redirect for https://www.egniol.co.in/schema.org/
+21:58:50	Warning: 	File has moved from https://www.egniol.co.in/schema.org/ to /schema.org
+21:58:51	Error: 	"Not Found" (404) at link https://www.egniol.co.in/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+21:58:51	Error: 	"Not Found" (404) at link https://www.egniol.co.in/d (from https://connect.facebook.net/en_US/fbevents.js)
+21:58:51	Error: 	"Not Found" (404) at link https://www.egniol.co.in/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+21:58:51	Error: 	"Not Found" (404) at link https://www.egniol.co.in/c.dl (from https://connect.facebook.net/en_US/fbevents.js)
+21:58:51	Error: 	"Not Found" (404) at link https://www.egniol.co.in/c.rl (from https://connect.facebook.net/en_US/fbevents.js)
+22:04:10	Error: 	"Error when decompressing" (-1) at link https://www.egniol.co.in/schema.org (from https://www.egniol.co.in/schema.org/)
+22:04:26	Error: 	"Bad Request" (400) at link https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconsulting_2.66a44569.jpg (from https://www.egniol.co.in/startup-india-certification)
+22:04:26	Error: 	"Bad Request" (400) at link https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frkvy-raftaar-scheme.b2f0c87e.webp (from https://www.egniol.co.in/blogs/rkvy-raftaar-scheme)
+22:04:26	Error: 	"Not Found" (404) at link https://www.egniol.co.in/gst-registration (from https://www.egniol.co.in/gem-registration)
+22:04:27	Error: 	"Not Found" (404) at link https://www.egniol.co.in/blogs/msme-funding (from https://www.egniol.co.in/blogs/how-new-us-tariffs-opening-global-doors-for-indian-msmes)
+22:04:27	Error: 	"Bad Request" (400) at link https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuber-boat-kashmir.b6e0e8b4.webp (from https://www.egniol.co.in/blogs/uber-boat-kashmir)
+22:04:27	Error: 	"Not Found" (404) at link https://www.egniol.co.in/images/logo.png (from https://www.egniol.co.in/blogs/zomato-makes-history)
+22:04:29	Error: 	"Not Found" (404) at link https://www.egniol.co.in/government-business-loan (from https://www.egniol.co.in/funding-consultancy-in-ahmedabad)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 18 seconds : 766 links scanned, 746 files written (117888136 bytes overall) [82839428 bytes received at 148457 bytes/sec], 88273296 bytes transferred using HTTP compression in 745 files, ratio 58%, 85.1 requests per connection
+(17 errors, 4 warnings, 0 messages)
