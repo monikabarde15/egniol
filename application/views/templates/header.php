@@ -177,7 +177,11 @@
 <body class="__variable_1e4310 __variable_c3aa02 antialiased"><noscript><iframe
       src="https://www.googletagmanager.com/ns.html?id=GTM-MHKF5NXM" height="0" width="0"
       style="display:none;visibility:hidden"></iframe></noscript>
-  <div></div>
+      <div id="__next">
+
+  <div>
+    
+  </div>
   <div class="jsx-3418209fb8b3c1b4 space-y-4">
     <div class="jsx-3418209fb8b3c1b4 fixed left-4 bottom-4 z-30  md:left-8">
       <div class="jsx-3418209fb8b3c1b4 absolute inset-0 rounded-full bg-[#03518F]/20 animate-ping"></div><button
@@ -205,8 +209,7 @@
         style="border:1px solid #FFFFFF33"><a class="flex space-x-4" href="#"><img alt="Egniol" loading="lazy"
             width="160" height="40" decoding="async" data-nimg="1" class="ml-2 w-28 md:w-[160px]"
             style="color:transparent"
-            srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo2.92cb9549.png&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo2.92cb9549.png&amp;w=384&amp;q=75 2x"
-            src="https://www.egniol.co.in/_next/logo25b0d.png?url=%2F_next%2Fstatic%2Fmedia%2Flogo2.92cb9549.png&amp;w=384&amp;q=75" /></a>
+            src="<?php echo base_url('assets/_next/logo25b0d.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Flogo2.92cb9549.png&amp;w=384&amp;q=75" /></a>
         <div class="flex-1 flex justify-center text-[#FFFFFF]">
           <nav class="hidden lg:flex space-x-6 font-medium"><a
               class="text-muted-foreground hover:text-primary hover:text-blue-200" href="<?php echo base_url()?>">Home</a><a
@@ -371,8 +374,7 @@
           <div class="flex justify-between px-5 top-2 cursor-pointer items-center"><a href="<?php echo base_url();?>" class><img
                 alt="Company Logo" loading="lazy" width="34" height="36" decoding="async" data-nimg="1" class
                 style="color:transparent"
-                srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.38d38346.png&amp;w=48&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.38d38346.png&amp;w=96&amp;q=75 2x"
-                src="https://www.egniol.co.in/_next/logo17b6.png?url=%2F_next%2Fstatic%2Fmedia%2Flogo.38d38346.png&amp;w=96&amp;q=75" /></a>
+                src="<?php echo base_url('assets/_next/logo17b6.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Flogo.38d38346.png&amp;w=96&amp;q=75" /></a>
             <div class="rounded-full p-1 flex justify-center items-center bg-[#03518f]"><svg stroke="currentColor"
                 fill="none" stroke-width="0" viewBox="0 0 15 15" color="white" style="color:white" height="24"
                 width="24" xmlns="http://www.w3.org/2000/svg">
@@ -465,12 +467,12 @@
                 class="flex flex-col justify-between items-center shadow-2xl rounded-lg border"
                 href="#"><img alt="msme-samvaad" loading="lazy" width="60" height="40" decoding="async"
                   data-nimg="1" class="mt-2 mb-1" style="color:transparent"
-                  src="https://www.egniol.co.in/_next/static/media/msme-samvaad-small-icon.e3732024.svg" /><button
+                  src="<?php echo base_url('assets/_next/static/media/msme-samvaad-small-icon.e3732024.svg'); ?>" /><button
                   class="text-white rounded-bl-lg rounded-br-lg  bg-[#03518f]   text-[9px] w-full ">Explore
                   Now</button></a><a class="flex flex-col justify-between items-center shadow-2xl rounded-lg border"
                 href="#"><img alt="my-msme-house" loading="lazy" width="50" height="10"
                   decoding="async" data-nimg="1" class="mt-1 mb-1" style="color:transparent"
-                  src="https://www.egniol.co.in/_next/static/media/my-msme-house.6394f749.svg" /><button
+                  src="<?php echo base_url('assets/_next/static/media/my-msme-house.6394f749.svg'); ?>" /><button
                   class="text-white  rounded-bl-lg rounded-br-lg  bg-[#03518f] shadow-2xl drop-shadow-2xl w-full text-[9px] px-3 ">Explore
                   Now</button></a></div>
           </div>

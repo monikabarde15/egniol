@@ -5,6 +5,7 @@ class Pages extends CI_Controller {
 
     public function home()
     {
+        // echo "gfg";die;
         $data['title'] = "Home";
         $this->load->view('templates/header', $data);
         $this->load->view('web/index');

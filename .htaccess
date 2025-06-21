@@ -1,6 +1,10 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-     RewriteBase /bcit-ci-CodeIgniter-3.1.13-0-gbcb17eb/
+    RewriteRule ^_next/(.*)$ assets/_next/$1 [L]
+    RewriteBase /bcit-ci-CodeIgniter-3.1.13-0-gbcb17eb/
+    RewriteCond %{REQUEST_URI} ^/_next/ [OR]
+    RewriteCond %{REQUEST_URI} ^/static/
+    RewriteRule ^(.*)$ assets/$1 [L]
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteRule ^(.*)$ index.php/$1 [L]

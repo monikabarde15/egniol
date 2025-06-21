@@ -19,15 +19,13 @@
     "><img alt="affordable-land" loading="lazy" decoding="async" data-nimg="fill"
                   class="transition-transform duration-700 ease-out transform hover:scale-105 object-contain hidden md:block"
                   style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent"
-                  sizes="100vw"
-                  srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLand.e31ec61a.png&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLand.e31ec61a.png&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLand.e31ec61a.png&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLand.e31ec61a.png&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLand.e31ec61a.png&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLand.e31ec61a.png&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLand.e31ec61a.png&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLand.e31ec61a.png&amp;w=3840&amp;q=75 3840w"
-                  src="https://www.egniol.co.in/_next/Land79dc.png?url=%2F_next%2Fstatic%2Fmedia%2FLand.e31ec61a.png&amp;w=3840&amp;q=75" /><img
+                  sizes="100vw"                 
+                  src="<?php echo base_url('assets/_next/Land79dc.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FLand.e31ec61a.png&amp;w=3840&amp;q=75" /><img
                   alt="affordable-land" loading="lazy" decoding="async" data-nimg="fill"
                   class="transition-transform duration-700 ease-out transform hover:scale-105 object-contain block md:hidden"
                   style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent"
                   sizes="100vw"
-                  srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmobileLand.af60bb45.png&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmobileLand.af60bb45.png&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmobileLand.af60bb45.png&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmobileLand.af60bb45.png&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmobileLand.af60bb45.png&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmobileLand.af60bb45.png&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmobileLand.af60bb45.png&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmobileLand.af60bb45.png&amp;w=3840&amp;q=75 3840w"
-                  src="https://www.egniol.co.in/_next/mobileLandc64a.png?url=%2F_next%2Fstatic%2Fmedia%2FmobileLand.af60bb45.png&amp;w=3840&amp;q=75" />
+                  src="<?php echo base_url('assets/_next/mobileLandc64a.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FmobileLand.af60bb45.png&amp;w=3840&amp;q=75" />
               </div>
             </div>
             <div class="jsx-1d2245041db79278 absolute inset-0 rounded-lg
@@ -54,14 +52,12 @@
                   class="transition-transform duration-700 ease-out transform hover:scale-105 object-contain hidden md:block"
                   style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent"
                   sizes="100vw"
-                  srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmerger.9f32874a.png&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmerger.9f32874a.png&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmerger.9f32874a.png&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmerger.9f32874a.png&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmerger.9f32874a.png&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmerger.9f32874a.png&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmerger.9f32874a.png&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmerger.9f32874a.png&amp;w=3840&amp;q=75 3840w"
-                  src="https://www.egniol.co.in/_next/mergerfa0a.png?url=%2F_next%2Fstatic%2Fmedia%2Fmerger.9f32874a.png&amp;w=3840&amp;q=75" /><img
+                  src="<?php echo base_url('assets/_next/mergerfa0a.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fmerger.9f32874a.png&amp;w=3840&amp;q=75" /><img
                   alt="Merger &amp; Acquisition" loading="lazy" decoding="async" data-nimg="fill"
                   class="transition-transform duration-700 ease-out transform hover:scale-105 object-contain block md:hidden"
                   style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent"
                   sizes="100vw"
-                  srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmobileMerger.afb2ce07.png&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmobileMerger.afb2ce07.png&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmobileMerger.afb2ce07.png&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmobileMerger.afb2ce07.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmobileMerger.afb2ce07.png&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmobileMerger.afb2ce07.png&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmobileMerger.afb2ce07.png&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmobileMerger.afb2ce07.png&amp;w=3840&amp;q=75 3840w"
-                  src="https://www.egniol.co.in/_next/mobileMerger2b18.png?url=%2F_next%2Fstatic%2Fmedia%2FmobileMerger.afb2ce07.png&amp;w=3840&amp;q=75" />
+                  src="<?php echo base_url('assets/_next/mobileMerger2b18.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FmobileMerger.afb2ce07.png&amp;w=3840&amp;q=75" />
               </div>
             </div>
             <div class="jsx-1d2245041db79278 absolute inset-0 rounded-lg
@@ -92,13 +88,11 @@
               class="bg-[#03518F] px-7 py-3 text-[15px] font-CustomSemiBold rounded-full text-white md:mt-10 mt-8 hidden md:block "><span>Learn
                 How</span></button><button class="px-9 mt-4 md:hidden"><img alt="egniol-webinar" loading="lazy"
                 width="303" height="61" decoding="async" data-nimg="1" class="object-contain" style="color:transparent"
-                srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FwebinarButton.4c5390b5.webp&amp;w=384&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FwebinarButton.4c5390b5.webp&amp;w=640&amp;q=75 2x"
-                src="https://www.egniol.co.in/_next/webinarButton47da.jpeg?url=%2F_next%2Fstatic%2Fmedia%2FwebinarButton.4c5390b5.webp&amp;w=640&amp;q=75" /></button><a
+                src="<?php echo base_url('assets/_next/webinarButton47da.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FwebinarButton.4c5390b5.webp&amp;w=640&amp;q=75" /></button><a
               class="flex items-center justify-center  md:hidden mt-4 gap-1" href="#"><img
                 alt="egniol-customers-review" loading="lazy" width="58" height="26" decoding="async" data-nimg="1"
                 style="color:transparent"
-                srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FcustomerReview.7ffe543f.png&amp;w=64&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FcustomerReview.7ffe543f.png&amp;w=128&amp;q=75 2x"
-                src="https://www.egniol.co.in/_next/customerReviewcd58.png?url=%2F_next%2Fstatic%2Fmedia%2FcustomerReview.7ffe543f.png&amp;w=128&amp;q=75" />
+                src="<?php echo base_url('assets/_next/customerReviewcd58.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FcustomerReview.7ffe543f.png&amp;w=128&amp;q=75" />
               <h2 class="text-white text-sm">Trusted by 50,000+
                 businesses</h2>
             </a></div>
@@ -107,14 +101,12 @@
                 href="#"><img alt="the-economic-times-msme-growth-award" fetchPriority="high"
                   width="732" height="557" decoding="async" data-nimg="1"
                   class="w-full h-full object-contain rounded-lg" style="color:transparent"
-                  srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FdvAwards1.136a998b.webp&amp;w=750&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FdvAwards1.136a998b.webp&amp;w=1920&amp;q=75 2x"
-                  src="https://www.egniol.co.in/_next/dvAwards1b21a.jpeg?url=%2F_next%2Fstatic%2Fmedia%2FdvAwards1.136a998b.webp&amp;w=1920&amp;q=75" /></a><a
+                  src="<?php echo base_url('assets/_next/dvAwards1b21a.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FdvAwards1.136a998b.webp&amp;w=1920&amp;q=75" /></a><a
                 class="relative w-full h-full" href="#"><img
                   alt="msme-ecosystem-award-zee-maha-sanman-2025" fetchPriority="high" width="732" height="557"
                   decoding="async" data-nimg="1" class="w-full h-full object-contain rounded-lg"
                   style="color:transparent"
-                  srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FdvAwards4.3ede07b7.webp&amp;w=750&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FdvAwards4.3ede07b7.webp&amp;w=1920&amp;q=75 2x"
-                  src="https://www.egniol.co.in/_next/dvAwards4f3f3.jpeg?url=%2F_next%2Fstatic%2Fmedia%2FdvAwards4.3ede07b7.webp&amp;w=1920&amp;q=75" /></a>
+                  src="<?php echo base_url('assets/_next/dvAwards4f3f3.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FdvAwards4.3ede07b7.webp&amp;w=1920&amp;q=75" /></a>
             </div>
           </div>
           <div class="w-full min-h-[150px] md:hidden">
@@ -131,8 +123,7 @@
                             href="#" class="w-full block"><img alt="msme growth partner"
                               fetchPriority="high" width="412" height="287" decoding="async" data-nimg="1"
                               class="rounded-2xl" style="color:transparent" sizes="(max-width: 768px) 100vw, 412px"
-                              srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=3840&amp;q=75 3840w"
-                              src="https://www.egniol.co.in/_next/awards3c728.jpeg?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=3840&amp;q=75" /></a>
+                              src="<?php echo base_url('assets/_next/awards3c728.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=3840&amp;q=75" /></a>
                         </div>
                       </div>
                     </div>
@@ -143,8 +134,7 @@
                             href="#" class="w-full block"><img alt="msme award"
                               fetchPriority="high" width="412" height="287" decoding="async" data-nimg="1"
                               class="rounded-2xl" style="color:transparent" sizes="(max-width: 768px) 100vw, 412px"
-                              srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=3840&amp;q=75 3840w"
-                              src="https://www.egniol.co.in/_next/awards1722e.jpeg?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=3840&amp;q=75" /></a>
+                              src="<?php echo base_url('assets/_next/awards1722e.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=3840&amp;q=75" /></a>
                         </div>
                       </div>
                     </div>
@@ -155,8 +145,7 @@
                             href="#" class="w-full block"><img alt="msme growth partner"
                               fetchPriority="high" width="412" height="287" decoding="async" data-nimg="1"
                               class="rounded-2xl" style="color:transparent" sizes="(max-width: 768px) 100vw, 412px"
-                              srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=750&amp;q=75 750w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=3840&amp;q=75 3840w"
-                              src="https://www.egniol.co.in/_next/awards3c728.jpeg?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=3840&amp;q=75" /></a>
+                              src="<?php echo base_url('assets/_next/awards3c728.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=3840&amp;q=75" /></a>
                         </div>
                       </div>
                     </div>
@@ -167,8 +156,7 @@
                             href="#" class="w-full block"><img alt="msme award"
                               fetchPriority="high" width="412" height="287" decoding="async" data-nimg="1"
                               class="rounded-2xl" style="color:transparent" sizes="(max-width: 768px) 100vw, 412px"
-                              srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=3840&amp;q=75 3840w"
-                              src="https://www.egniol.co.in/_next/awards1722e.jpeg?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=3840&amp;q=75" /></a>
+                              src="<?php echo base_url('assets/_next/awards1722e.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fawards1.2a3751b4.webp&amp;w=3840&amp;q=75" /></a>
                         </div>
                       </div>
                     </div>
@@ -179,8 +167,7 @@
                             href="#" class="w-full block"><img alt="msme growth partner"
                               fetchPriority="high" width="412" height="287" decoding="async" data-nimg="1"
                               class="rounded-2xl" style="color:transparent" sizes="(max-width: 768px) 100vw, 412px"
-                              srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=3840&amp;q=75 3840w"
-                              src="https://www.egniol.co.in/_next/awards3c728.jpeg?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=3840&amp;q=75" /></a>
+                              src="<?php echo base_url('assets/_next/awards3c728.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fawards3.1c428e11.webp&amp;w=3840&amp;q=75" /></a>
                         </div>
                       </div>
                     </div>
@@ -191,43 +178,7 @@
             </div>
           </div>
           <div class="jsx-a40bf992ac80d748 flex items-center mt-4 mb-8 h-12 relative w-full">
-            <div class="jsx-a40bf992ac80d748 
-
-          hidden md:flex
-
-          items-center
-
-          justify-end
-
-          h-full
-
-          font-semibold
-
-          text-white
-
-          z-10
-
-          pr-8
-
-          absolute
-
-          left-0
-
-          text-sm
-
-          md:text-lg
-
-          px-4
-
-          w-[100px]
-
-          md:w-[260px]
-
-          bg-[#03518F]
-
-          [clip-path:polygon(0_0,100%_0,90%_100%,0%_100%)]
-
-          ">Announcements</div>
+            <div class="jsx-a40bf992ac80d748  hidden md:flex items-center justify-end h-full font-semibold text-white z-10 pr-8 absolute left-0 text-sm md:text-lg px-4 w-[100px] md:w-[260px] bg-[#03518F] [clip-path:polygon(0_0,100%_0,90%_100%,0%_100%)]">Announcements</div>
             <div class="jsx-a40bf992ac80d748 w-full bg-[#EE4523] overflow-hidden h-full relative">
               <div class="jsx-a40bf992ac80d748 inline-flex animate-scroll-left gap-4 h-full items-center"><a
                   class="flex-shrink-0 text-white text-sm md:text-md lg:text-lg font-medium px-2 flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-colors"
@@ -387,8 +338,7 @@
                       alt="Digital Marketing 1" loading="lazy" width="444" height="250" decoding="async" data-nimg="1"
                       class="w-full h-full object-cover rounded-xl shadow-lg" style="color:transparent"
                       sizes="(max-width: 768px) 100vw, 444px"
-                      srcSet="https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FuZ84FwmQmhE%2Fhqdefault.jpg&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FuZ84FwmQmhE%2Fhqdefault.jpg&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FuZ84FwmQmhE%2Fhqdefault.jpg&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FuZ84FwmQmhE%2Fhqdefault.jpg&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FuZ84FwmQmhE%2Fhqdefault.jpg&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FuZ84FwmQmhE%2Fhqdefault.jpg&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FuZ84FwmQmhE%2Fhqdefault.jpg&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FuZ84FwmQmhE%2Fhqdefault.jpg&amp;w=3840&amp;q=75 3840w"
-                      src="https://www.egniol.co.in/_next/hqdefault1ec2.jpeg?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FuZ84FwmQmhE%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/hqdefault1ec2.jpeg'); ?>?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FuZ84FwmQmhE%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
                     <div class="absolute inset-0 flex items-center justify-center  rounded-xl"><svg width="48"
                         height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="48" height="48" rx="24" fill="#FF0000"></rect>
@@ -401,8 +351,7 @@
                       alt="Digital Marketing 2" loading="lazy" width="444" height="250" decoding="async" data-nimg="1"
                       class="w-full h-full object-cover rounded-xl shadow-lg" style="color:transparent"
                       sizes="(max-width: 768px) 100vw, 444px"
-                      srcSet="https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FYDsv6efz67U%2Fhqdefault.jpg&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FYDsv6efz67U%2Fhqdefault.jpg&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FYDsv6efz67U%2Fhqdefault.jpg&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FYDsv6efz67U%2Fhqdefault.jpg&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FYDsv6efz67U%2Fhqdefault.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FYDsv6efz67U%2Fhqdefault.jpg&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FYDsv6efz67U%2Fhqdefault.jpg&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FYDsv6efz67U%2Fhqdefault.jpg&amp;w=3840&amp;q=75 3840w"
-                      src="https://www.egniol.co.in/_next/hqdefaultf368.jpeg?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FYDsv6efz67U%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/hqdefaultf368.jpeg'); ?>?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FYDsv6efz67U%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
                     <div class="absolute inset-0 flex items-center justify-center  rounded-xl"><svg width="48"
                         height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="48" height="48" rx="24" fill="#FF0000"></rect>
@@ -415,8 +364,7 @@
                       alt="Digital Marketing 3" loading="lazy" width="444" height="250" decoding="async" data-nimg="1"
                       class="w-full h-full object-cover rounded-xl shadow-lg" style="color:transparent"
                       sizes="(max-width: 768px) 100vw, 444px"
-                      srcSet="https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F0ugxqhWXJXA%2Fhqdefault.jpg&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F0ugxqhWXJXA%2Fhqdefault.jpg&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F0ugxqhWXJXA%2Fhqdefault.jpg&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F0ugxqhWXJXA%2Fhqdefault.jpg&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F0ugxqhWXJXA%2Fhqdefault.jpg&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F0ugxqhWXJXA%2Fhqdefault.jpg&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F0ugxqhWXJXA%2Fhqdefault.jpg&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F0ugxqhWXJXA%2Fhqdefault.jpg&amp;w=3840&amp;q=75 3840w"
-                      src="https://www.egniol.co.in/_next/hqdefault4029.jpeg?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F0ugxqhWXJXA%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/hqdefault4029.jpeg'); ?>?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F0ugxqhWXJXA%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
                     <div class="absolute inset-0 flex items-center justify-center  rounded-xl"><svg width="48"
                         height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="48" height="48" rx="24" fill="#FF0000"></rect>
@@ -429,8 +377,7 @@
                       alt="Digital Marketing 4" loading="lazy" width="444" height="250" decoding="async" data-nimg="1"
                       class="w-full h-full object-cover rounded-xl shadow-lg" style="color:transparent"
                       sizes="(max-width: 768px) 100vw, 444px"
-                      srcSet="https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FUUAhosD26PM%2Fhqdefault.jpg&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FUUAhosD26PM%2Fhqdefault.jpg&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FUUAhosD26PM%2Fhqdefault.jpg&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FUUAhosD26PM%2Fhqdefault.jpg&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FUUAhosD26PM%2Fhqdefault.jpg&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FUUAhosD26PM%2Fhqdefault.jpg&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FUUAhosD26PM%2Fhqdefault.jpg&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FUUAhosD26PM%2Fhqdefault.jpg&amp;w=3840&amp;q=75 3840w"
-                      src="https://www.egniol.co.in/_next/hqdefault3118.jpeg?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FUUAhosD26PM%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/hqdefault3118.jpeg'); ?>?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FUUAhosD26PM%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
                     <div class="absolute inset-0 flex items-center justify-center  rounded-xl"><svg width="48"
                         height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="48" height="48" rx="24" fill="#FF0000"></rect>
@@ -443,8 +390,7 @@
                       alt="Digital Marketing 5" loading="lazy" width="444" height="250" decoding="async" data-nimg="1"
                       class="w-full h-full object-cover rounded-xl shadow-lg" style="color:transparent"
                       sizes="(max-width: 768px) 100vw, 444px"
-                      srcSet="https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FejGogQeQlgg%2Fhqdefault.jpg&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FejGogQeQlgg%2Fhqdefault.jpg&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FejGogQeQlgg%2Fhqdefault.jpg&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FejGogQeQlgg%2Fhqdefault.jpg&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FejGogQeQlgg%2Fhqdefault.jpg&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FejGogQeQlgg%2Fhqdefault.jpg&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FejGogQeQlgg%2Fhqdefault.jpg&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FejGogQeQlgg%2Fhqdefault.jpg&amp;w=3840&amp;q=75 3840w"
-                      src="https://www.egniol.co.in/_next/hqdefault92f2.jpeg?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FejGogQeQlgg%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/hqdefault92f2.jpeg'); ?>?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FejGogQeQlgg%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
                     <div class="absolute inset-0 flex items-center justify-center  rounded-xl"><svg width="48"
                         height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="48" height="48" rx="24" fill="#FF0000"></rect>
@@ -457,8 +403,7 @@
                       alt="Digital Marketing 6" loading="lazy" width="444" height="250" decoding="async" data-nimg="1"
                       class="w-full h-full object-cover rounded-xl shadow-lg" style="color:transparent"
                       sizes="(max-width: 768px) 100vw, 444px"
-                      srcSet="https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FGuij7nooQTc%2Fhqdefault.jpg&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FGuij7nooQTc%2Fhqdefault.jpg&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FGuij7nooQTc%2Fhqdefault.jpg&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FGuij7nooQTc%2Fhqdefault.jpg&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FGuij7nooQTc%2Fhqdefault.jpg&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FGuij7nooQTc%2Fhqdefault.jpg&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FGuij7nooQTc%2Fhqdefault.jpg&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FGuij7nooQTc%2Fhqdefault.jpg&amp;w=3840&amp;q=75 3840w"
-                      src="https://www.egniol.co.in/_next/hqdefault1e55.jpeg?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FGuij7nooQTc%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/hqdefault1e55.jpeg'); ?>?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FGuij7nooQTc%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
                     <div class="absolute inset-0 flex items-center justify-center  rounded-xl"><svg width="48"
                         height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="48" height="48" rx="24" fill="#FF0000"></rect>
@@ -471,8 +416,7 @@
                       alt="Digital Marketing 7" loading="lazy" width="444" height="250" decoding="async" data-nimg="1"
                       class="w-full h-full object-cover rounded-xl shadow-lg" style="color:transparent"
                       sizes="(max-width: 768px) 100vw, 444px"
-                      srcSet="https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F01TTTb6Z7CA%2Fhqdefault.jpg&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F01TTTb6Z7CA%2Fhqdefault.jpg&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F01TTTb6Z7CA%2Fhqdefault.jpg&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F01TTTb6Z7CA%2Fhqdefault.jpg&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F01TTTb6Z7CA%2Fhqdefault.jpg&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F01TTTb6Z7CA%2Fhqdefault.jpg&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F01TTTb6Z7CA%2Fhqdefault.jpg&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F01TTTb6Z7CA%2Fhqdefault.jpg&amp;w=3840&amp;q=75 3840w"
-                      src="https://www.egniol.co.in/_next/hqdefault1731.jpeg?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F01TTTb6Z7CA%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/hqdefault1731.jpeg'); ?>?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2F01TTTb6Z7CA%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
                     <div class="absolute inset-0 flex items-center justify-center  rounded-xl"><svg width="48"
                         height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="48" height="48" rx="24" fill="#FF0000"></rect>
@@ -485,8 +429,7 @@
                       alt="Digital Marketing 8" loading="lazy" width="444" height="250" decoding="async" data-nimg="1"
                       class="w-full h-full object-cover rounded-xl shadow-lg" style="color:transparent"
                       sizes="(max-width: 768px) 100vw, 444px"
-                      srcSet="https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FrmRTon5OKaQ%2Fhqdefault.jpg&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FrmRTon5OKaQ%2Fhqdefault.jpg&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FrmRTon5OKaQ%2Fhqdefault.jpg&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FrmRTon5OKaQ%2Fhqdefault.jpg&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FrmRTon5OKaQ%2Fhqdefault.jpg&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FrmRTon5OKaQ%2Fhqdefault.jpg&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FrmRTon5OKaQ%2Fhqdefault.jpg&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FrmRTon5OKaQ%2Fhqdefault.jpg&amp;w=3840&amp;q=75 3840w"
-                      src="https://www.egniol.co.in/_next/hqdefault9a2d.jpeg?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FrmRTon5OKaQ%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/hqdefault9a2d.jpeg'); ?>?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FrmRTon5OKaQ%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
                     <div class="absolute inset-0 flex items-center justify-center  rounded-xl"><svg width="48"
                         height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="48" height="48" rx="24" fill="#FF0000"></rect>
@@ -499,8 +442,7 @@
                       alt="Digital Marketing 9" loading="lazy" width="444" height="250" decoding="async" data-nimg="1"
                       class="w-full h-full object-cover rounded-xl shadow-lg" style="color:transparent"
                       sizes="(max-width: 768px) 100vw, 444px"
-                      srcSet="https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FTi1aezzzChE%2Fsddefault.jpg&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FTi1aezzzChE%2Fsddefault.jpg&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FTi1aezzzChE%2Fsddefault.jpg&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FTi1aezzzChE%2Fsddefault.jpg&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FTi1aezzzChE%2Fsddefault.jpg&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FTi1aezzzChE%2Fsddefault.jpg&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FTi1aezzzChE%2Fsddefault.jpg&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FTi1aezzzChE%2Fsddefault.jpg&amp;w=3840&amp;q=75 3840w"
-                      src="https://www.egniol.co.in/_next/sddefaultf7a9.jpeg?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FTi1aezzzChE%2Fsddefault.jpg&amp;w=3840&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/sddefaultf7a9.jpeg'); ?>?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FTi1aezzzChE%2Fsddefault.jpg&amp;w=3840&amp;q=75" />
                     <div class="absolute inset-0 flex items-center justify-center  rounded-xl"><svg width="48"
                         height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="48" height="48" rx="24" fill="#FF0000"></rect>
@@ -513,8 +455,7 @@
                       alt="Digital Marketing 10" loading="lazy" width="444" height="250" decoding="async" data-nimg="1"
                       class="w-full h-full object-cover rounded-xl shadow-lg" style="color:transparent"
                       sizes="(max-width: 768px) 100vw, 444px"
-                      srcSet="https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FQtWHdrSLLH0%2Fhqdefault.jpg&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FQtWHdrSLLH0%2Fhqdefault.jpg&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FQtWHdrSLLH0%2Fhqdefault.jpg&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FQtWHdrSLLH0%2Fhqdefault.jpg&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FQtWHdrSLLH0%2Fhqdefault.jpg&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FQtWHdrSLLH0%2Fhqdefault.jpg&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FQtWHdrSLLH0%2Fhqdefault.jpg&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FQtWHdrSLLH0%2Fhqdefault.jpg&amp;w=3840&amp;q=75 3840w"
-                      src="https://www.egniol.co.in/_next/hqdefault179d.jpeg?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FQtWHdrSLLH0%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/hqdefault179d.jpeg'); ?>?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FQtWHdrSLLH0%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
                     <div class="absolute inset-0 flex items-center justify-center  rounded-xl"><svg width="48"
                         height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="48" height="48" rx="24" fill="#FF0000"></rect>
@@ -527,8 +468,7 @@
                       alt="Digital Marketing 11" loading="lazy" width="444" height="250" decoding="async" data-nimg="1"
                       class="w-full h-full object-cover rounded-xl shadow-lg" style="color:transparent"
                       sizes="(max-width: 768px) 100vw, 444px"
-                      srcSet="https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FoqLmUlUuHTg%2Fhqdefault.jpg&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FoqLmUlUuHTg%2Fhqdefault.jpg&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FoqLmUlUuHTg%2Fhqdefault.jpg&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FoqLmUlUuHTg%2Fhqdefault.jpg&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FoqLmUlUuHTg%2Fhqdefault.jpg&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FoqLmUlUuHTg%2Fhqdefault.jpg&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FoqLmUlUuHTg%2Fhqdefault.jpg&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FoqLmUlUuHTg%2Fhqdefault.jpg&amp;w=3840&amp;q=75 3840w"
-                      src="https://www.egniol.co.in/_next/hqdefaultd868.jpeg?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FoqLmUlUuHTg%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/hqdefaultd868.jpeg'); ?>?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FoqLmUlUuHTg%2Fhqdefault.jpg&amp;w=3840&amp;q=75" />
                     <div class="absolute inset-0 flex items-center justify-center  rounded-xl"><svg width="48"
                         height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="48" height="48" rx="24" fill="#FF0000"></rect>
@@ -541,8 +481,7 @@
                       alt="Digital Marketing 12" loading="lazy" width="444" height="250" decoding="async" data-nimg="1"
                       class="w-full h-full object-cover rounded-xl shadow-lg" style="color:transparent"
                       sizes="(max-width: 768px) 100vw, 444px"
-                      srcSet="https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FFVy8q-37YY0%2Fsddefault.jpg&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FFVy8q-37YY0%2Fsddefault.jpg&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FFVy8q-37YY0%2Fsddefault.jpg&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FFVy8q-37YY0%2Fsddefault.jpg&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FFVy8q-37YY0%2Fsddefault.jpg&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FFVy8q-37YY0%2Fsddefault.jpg&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FFVy8q-37YY0%2Fsddefault.jpg&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FFVy8q-37YY0%2Fsddefault.jpg&amp;w=3840&amp;q=75 3840w"
-                      src="https://www.egniol.co.in/_next/sddefault4c53.jpeg?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FFVy8q-37YY0%2Fsddefault.jpg&amp;w=3840&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/sddefault4c53.jpeg'); ?>?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FFVy8q-37YY0%2Fsddefault.jpg&amp;w=3840&amp;q=75" />
                     <div class="absolute inset-0 flex items-center justify-center  rounded-xl"><svg width="48"
                         height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="48" height="48" rx="24" fill="#FF0000"></rect>
@@ -555,8 +494,7 @@
                       alt="Digital Marketing 13" loading="lazy" width="444" height="250" decoding="async" data-nimg="1"
                       class="w-full h-full object-cover rounded-xl shadow-lg" style="color:transparent"
                       sizes="(max-width: 768px) 100vw, 444px"
-                      srcSet="https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FlmOjdLz15JI%2Fsddefault.jpg&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FlmOjdLz15JI%2Fsddefault.jpg&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FlmOjdLz15JI%2Fsddefault.jpg&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FlmOjdLz15JI%2Fsddefault.jpg&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FlmOjdLz15JI%2Fsddefault.jpg&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FlmOjdLz15JI%2Fsddefault.jpg&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FlmOjdLz15JI%2Fsddefault.jpg&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FlmOjdLz15JI%2Fsddefault.jpg&amp;w=3840&amp;q=75 3840w"
-                      src="https://www.egniol.co.in/_next/sddefault39ce.jpeg?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FlmOjdLz15JI%2Fsddefault.jpg&amp;w=3840&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/sddefault39ce.jpeg'); ?>?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FlmOjdLz15JI%2Fsddefault.jpg&amp;w=3840&amp;q=75" />
                     <div class="absolute inset-0 flex items-center justify-center  rounded-xl"><svg width="48"
                         height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="48" height="48" rx="24" fill="#FF0000"></rect>
@@ -569,8 +507,7 @@
                       alt="Digital Marketing 14" loading="lazy" width="444" height="250" decoding="async" data-nimg="1"
                       class="w-full h-full object-cover rounded-xl shadow-lg" style="color:transparent"
                       sizes="(max-width: 768px) 100vw, 444px"
-                      srcSet="https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FXZqTi9U5XVY%2Fsddefault.jpg&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FXZqTi9U5XVY%2Fsddefault.jpg&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FXZqTi9U5XVY%2Fsddefault.jpg&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FXZqTi9U5XVY%2Fsddefault.jpg&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FXZqTi9U5XVY%2Fsddefault.jpg&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FXZqTi9U5XVY%2Fsddefault.jpg&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FXZqTi9U5XVY%2Fsddefault.jpg&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FXZqTi9U5XVY%2Fsddefault.jpg&amp;w=3840&amp;q=75 3840w"
-                      src="https://www.egniol.co.in/_next/sddefault522b.jpeg?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FXZqTi9U5XVY%2Fsddefault.jpg&amp;w=3840&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/sddefault522b.jpeg'); ?>?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FXZqTi9U5XVY%2Fsddefault.jpg&amp;w=3840&amp;q=75" />
                     <div class="absolute inset-0 flex items-center justify-center  rounded-xl"><svg width="48"
                         height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="48" height="48" rx="24" fill="#FF0000"></rect>
@@ -583,8 +520,7 @@
                       alt="Digital Marketing 15" loading="lazy" width="444" height="250" decoding="async" data-nimg="1"
                       class="w-full h-full object-cover rounded-xl shadow-lg" style="color:transparent"
                       sizes="(max-width: 768px) 100vw, 444px"
-                      srcSet="https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fgw5QYP6FPik%2Fsddefault.jpg&amp;w=640&amp;q=75 640w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fgw5QYP6FPik%2Fsddefault.jpg&amp;w=750&amp;q=75 750w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fgw5QYP6FPik%2Fsddefault.jpg&amp;w=828&amp;q=75 828w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fgw5QYP6FPik%2Fsddefault.jpg&amp;w=1080&amp;q=75 1080w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fgw5QYP6FPik%2Fsddefault.jpg&amp;w=1200&amp;q=75 1200w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fgw5QYP6FPik%2Fsddefault.jpg&amp;w=1920&amp;q=75 1920w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fgw5QYP6FPik%2Fsddefault.jpg&amp;w=2048&amp;q=75 2048w, https://www.egniol.co.in/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fgw5QYP6FPik%2Fsddefault.jpg&amp;w=3840&amp;q=75 3840w"
-                      src="https://www.egniol.co.in/_next/sddefaulted78.jpeg?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fgw5QYP6FPik%2Fsddefault.jpg&amp;w=3840&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/sddefaulted78.jpeg'); ?>?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fgw5QYP6FPik%2Fsddefault.jpg&amp;w=3840&amp;q=75" />
                     <div class="absolute inset-0 flex items-center justify-center  rounded-xl"><svg width="48"
                         height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="48" height="48" rx="24" fill="#FF0000"></rect>
@@ -617,12 +553,12 @@
                 <div class="flex justify-center items-center h-[400px] mb-5"></div>
                 <div class="flex justify-center items-center pt-8 text-center gap-12"><button class><img
                       alt="Left Arrow" loading="lazy" width="76" height="76" decoding="async" data-nimg="1"
-                      style="color:transparent" src="https://www.egniol.co.in/_next/static/media/leftArrow.283cddef.svg" /></button><a
+                      style="color:transparent" src="<?php echo base_url('assets/_next/static/media/leftArrow.283cddef.svg'); ?>" /></button><a
                     class="flex items-center gap-3 text-[#03518f] font-CustomSemiBold mb-4"
                     style="transform:translateY(0px);opacity:1" href="#"><span>View
                       All</span></a><button class><img alt="Right Arrow" loading="lazy" width="76" height="76"
                       decoding="async" data-nimg="1" style="color:transparent"
-                      src="https://www.egniol.co.in/_next/static/media/rightArrow.60ad53c6.svg" /></button></div>
+                      src="<?php echo base_url('assets/_next/static/media/rightArrow.60ad53c6.svg'); ?>" /></button></div>
               </div>
             </div>
           </div>
@@ -643,7 +579,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-3" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/2.23b11aa1.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/2.23b11aa1.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="-5" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true"
@@ -653,7 +589,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-4" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/5.f0c4c39e.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/5.f0c4c39e.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="-4" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true"
@@ -663,7 +599,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-5" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/7.6b9132fe.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/7.6b9132fe.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="-3" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true"
@@ -673,7 +609,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-6" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/9.550c22c6.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/9.550c22c6.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="-2" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true"
@@ -683,7 +619,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-7" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/6.a264d6ba.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/6.a264d6ba.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="-1" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true"
@@ -694,8 +630,7 @@
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
                           style="color:transparent"
-                          srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F11.d63730e9.png&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F11.d63730e9.png&amp;w=640&amp;q=75 2x"
-                          src="https://www.egniol.co.in/_next/118463.png?url=%2F_next%2Fstatic%2Fmedia%2F11.d63730e9.png&amp;w=640&amp;q=75" />
+                          src="<?php echo base_url('assets/_next/118463.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2F11.d63730e9.png&amp;w=640&amp;q=75" />
                       </div>
                     </div>
                   </div>
@@ -706,7 +641,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-0" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/4.a17fd9a2.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/4.a17fd9a2.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="1" class="slick-slide slick-active" tabindex="-1" aria-hidden="false"
@@ -716,7 +651,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-1" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/1.b650f2ee.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/1.b650f2ee.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="2" class="slick-slide slick-active" tabindex="-1" aria-hidden="false"
@@ -726,7 +661,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-2" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/3.51c5213f.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/3.51c5213f.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="3" class="slick-slide slick-active" tabindex="-1" aria-hidden="false"
@@ -736,7 +671,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-3" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/2.23b11aa1.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/2.23b11aa1.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="4" class="slick-slide slick-active" tabindex="-1" aria-hidden="false"
@@ -746,7 +681,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-4" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/5.f0c4c39e.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/5.f0c4c39e.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="5" class="slick-slide slick-active" tabindex="-1" aria-hidden="false"
@@ -756,7 +691,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-5" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/7.6b9132fe.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/7.6b9132fe.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="6" class="slick-slide" tabindex="-1" aria-hidden="true"
@@ -766,7 +701,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-6" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/9.550c22c6.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/9.550c22c6.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="7" class="slick-slide" tabindex="-1" aria-hidden="true"
@@ -776,7 +711,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-7" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/6.a264d6ba.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/6.a264d6ba.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="8" class="slick-slide" tabindex="-1" aria-hidden="true"
@@ -787,8 +722,7 @@
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
                           style="color:transparent"
-                          srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F11.d63730e9.png&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F11.d63730e9.png&amp;w=640&amp;q=75 2x"
-                          src="https://www.egniol.co.in/_next/118463.png?url=%2F_next%2Fstatic%2Fmedia%2F11.d63730e9.png&amp;w=640&amp;q=75" />
+                          src="<?php echo base_url('assets/_next/118463.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2F11.d63730e9.png&amp;w=640&amp;q=75" />
                       </div>
                     </div>
                   </div>
@@ -799,7 +733,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-0" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/4.a17fd9a2.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/4.a17fd9a2.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="10" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true"
@@ -809,7 +743,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-1" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/1.b650f2ee.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/1.b650f2ee.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="11" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true"
@@ -819,7 +753,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-2" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/3.51c5213f.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/3.51c5213f.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="12" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true"
@@ -829,7 +763,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-3" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/2.23b11aa1.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/2.23b11aa1.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="13" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true"
@@ -839,7 +773,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-4" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/5.f0c4c39e.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/5.f0c4c39e.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="14" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true"
@@ -849,7 +783,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-5" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/7.6b9132fe.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/7.6b9132fe.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="15" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true"
@@ -859,7 +793,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-6" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/9.550c22c6.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/9.550c22c6.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="16" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true"
@@ -869,7 +803,7 @@
                         style="width:100%;display:inline-block"><img alt="slide-7" draggable="false" loading="lazy"
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
-                          style="color:transparent" src="https://www.egniol.co.in/_next/static/media/6.a264d6ba.svg" /></div>
+                          style="color:transparent" src="<?php echo base_url('assets/_next/static/media/6.a264d6ba.svg'); ?>" /></div>
                     </div>
                   </div>
                   <div data-index="17" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true"
@@ -880,8 +814,7 @@
                           width="200" height="200" decoding="async" data-nimg="1"
                           class="w-full object-cover lg:h-auto rounded-2xl border-2 border-gray-500/20 shadow-lg "
                           style="color:transparent"
-                          srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F11.d63730e9.png&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F11.d63730e9.png&amp;w=640&amp;q=75 2x"
-                          src="https://www.egniol.co.in/_next/118463.png?url=%2F_next%2Fstatic%2Fmedia%2F11.d63730e9.png&amp;w=640&amp;q=75" />
+                          src="<?php echo base_url('assets/_next/118463.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2F11.d63730e9.png&amp;w=640&amp;q=75" />
                       </div>
                     </div>
                   </div>
@@ -904,21 +837,21 @@
                   <div class>
                     <div class="rounded-2xl pr-1 pb-2"><img alt="GROWTH EXPERTS" loading="lazy" width="119" height="131"
                         decoding="async" data-nimg="1" class="w-full border drop-shadow-md rounded-2xl"
-                        style="color:transparent" src="https://www.egniol.co.in/_next/static/media/1.b650f2ee.svg" /></div>
+                        style="color:transparent" src="<?php echo base_url('assets/_next/static/media/1.b650f2ee.svg'); ?>" /></div>
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class>
                     <div class="rounded-2xl pr-1 pb-2"><img alt="Business Growth" loading="lazy" width="119"
                         height="131" decoding="async" data-nimg="1" class="w-full border drop-shadow-md rounded-2xl"
-                        style="color:transparent" src="https://www.egniol.co.in/_next/static/media/2.23b11aa1.svg" /></div>
+                        style="color:transparent" src="<?php echo base_url('assets/_next/static/media/2.23b11aa1.svg'); ?>" /></div>
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class>
                     <div class="rounded-2xl pr-1 pb-2"><img alt="Google Review" loading="lazy" width="119" height="131"
                         decoding="async" data-nimg="1" class="w-full border drop-shadow-md rounded-2xl"
-                        style="color:transparent" src="https://www.egniol.co.in/_next/static/media/4.a17fd9a2.svg" /></div>
+                        style="color:transparent" src="<?php echo base_url('assets/_next/static/media/4.a17fd9a2.svg'); ?>" /></div>
                   </div>
                 </div>
                 <div class="swiper-slide">
@@ -926,14 +859,14 @@
                     <div class="rounded-2xl pr-1 pb-2"><img alt="Clients from various industries" loading="lazy"
                         width="119" height="131" decoding="async" data-nimg="1"
                         class="w-full border drop-shadow-md rounded-2xl" style="color:transparent"
-                        src="https://www.egniol.co.in/_next/static/media/8.d68050e3.svg" /></div>
+                        src="<?php echo base_url('assets/_next/static/media/8.d68050e3.svg'); ?>" /></div>
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class>
                     <div class="rounded-2xl pr-1 pb-2"><img alt="Years of Journey" loading="lazy" width="119"
                         height="131" decoding="async" data-nimg="1" class="w-full border drop-shadow-md rounded-2xl"
-                        style="color:transparent" src="https://www.egniol.co.in/_next/static/media/3.51c5213f.svg" /></div>
+                        style="color:transparent" src="<?php echo base_url('assets/_next/static/media/3.51c5213f.svg'); ?>" /></div>
                   </div>
                 </div>
                 <div class="swiper-slide">
@@ -941,14 +874,14 @@
                     <div class="rounded-2xl pr-1 pb-2"><img alt="Startups recognized by Governament" loading="lazy"
                         width="119" height="131" decoding="async" data-nimg="1"
                         class="w-full border drop-shadow-md rounded-2xl" style="color:transparent"
-                        src="https://www.egniol.co.in/_next/static/media/6.a264d6ba.svg" /></div>
+                        src="<?php echo base_url('assets/_next/static/media/6.a264d6ba.svg'); ?>" /></div>
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class>
                     <div class="rounded-2xl pr-1 pb-2"><img alt="Tax Exemption To clients" loading="lazy" width="119"
                         height="131" decoding="async" data-nimg="1" class="w-full border drop-shadow-md rounded-2xl"
-                        style="color:transparent" src="https://www.egniol.co.in/_next/static/media/9.550c22c6.svg" /></div>
+                        style="color:transparent" src="<?php echo base_url('assets/_next/static/media/9.550c22c6.svg'); ?>" /></div>
                   </div>
                 </div>
                 <div class="swiper-slide">
@@ -956,8 +889,7 @@
                     <div class="rounded-2xl pr-1 pb-2"><img alt="7+ Offices" loading="lazy" width="119" height="131"
                         decoding="async" data-nimg="1" class="w-full border drop-shadow-md rounded-2xl"
                         style="color:transparent"
-                        srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F11.d63730e9.png&amp;w=128&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F11.d63730e9.png&amp;w=256&amp;q=75 2x"
-                        src="https://www.egniol.co.in/_next/11d098.png?url=%2F_next%2Fstatic%2Fmedia%2F11.d63730e9.png&amp;w=256&amp;q=75" />
+                        src="<?php echo base_url('assets/_next/11d098.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2F11.d63730e9.png&amp;w=256&amp;q=75" />
                     </div>
                   </div>
                 </div>
@@ -966,7 +898,7 @@
                     <div class="rounded-2xl pr-1 pb-2"><img alt="Seed Funds secured by 320+ businesses" loading="lazy"
                         width="119" height="131" decoding="async" data-nimg="1"
                         class="w-full border drop-shadow-md rounded-2xl" style="color:transparent"
-                        src="https://www.egniol.co.in/_next/static/media/7.6b9132fe.svg" /></div>
+                        src="<?php echo base_url('assets/_next/static/media/7.6b9132fe.svg'); ?>" /></div>
                   </div>
                 </div>
                 <div class="swiper-slide">
@@ -974,7 +906,7 @@
                     <div class="rounded-2xl pr-1 pb-2"><img alt="Funds granted to agriculture and animal husbandary"
                         loading="lazy" width="119" height="131" decoding="async" data-nimg="1"
                         class="w-full border drop-shadow-md rounded-2xl" style="color:transparent"
-                        src="https://www.egniol.co.in/_next/static/media/5.f0c4c39e.svg" /></div>
+                        src="<?php echo base_url('assets/_next/static/media/5.f0c4c39e.svg'); ?>" /></div>
                   </div>
                 </div>
               </div>
@@ -999,7 +931,7 @@
                     <div class="flex lg:justify-between lg:items-center bg-white lg:py-2 lg:px-4 rounded-b-lg w-full">
                       <img alt="egniolimage" loading="lazy" width="45" height="48" decoding="async" data-nimg="1"
                         class="hidden lg:block size-8" style="color:transparent"
-                        src="https://www.egniol.co.in/_next/static/media/rupee.c30b29cb.svg" />
+                        src="<?php echo base_url('assets/_next/static/media/rupee.c30b29cb.svg'); ?>" />
                       <div class="relative inline-block w-full lg:w-1/2"><button
                           class="relative z-10 lg:py-2 py-1 xl:px-8 w-full lg:rounded-full rounded-b-lg bg-[#03518F] border border-[#03518F] transition-colors duration-300 overflow-hidden"><span
                             class="relative z-20 w-full text-white">Avail
@@ -1025,8 +957,7 @@
                     <div class="flex lg:justify-between lg:items-center bg-white lg:py-2 lg:px-4 rounded-b-lg w-full">
                       <img alt="egniolimage" loading="lazy" width="51" height="53" decoding="async" data-nimg="1"
                         class="hidden lg:block size-8" style="color:transparent"
-                        srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon2.5fa51cd7.png&amp;w=64&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon2.5fa51cd7.png&amp;w=128&amp;q=75 2x"
-                        src="https://www.egniol.co.in/_next/serve_icon23692.png?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon2.5fa51cd7.png&amp;w=128&amp;q=75" />
+                        src="<?php echo base_url('assets/_next/serve_icon23692.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon2.5fa51cd7.png&amp;w=128&amp;q=75" />
                       <div class="relative inline-block w-full lg:w-1/2"><button
                           class="relative z-10 lg:py-2 py-1 xl:px-8 w-full lg:rounded-full rounded-b-lg bg-[#03518F] border border-[#03518F] transition-colors duration-300 overflow-hidden"><span
                             class="relative z-20 w-full text-white">Avail
@@ -1052,8 +983,7 @@
                     <div class="flex lg:justify-between lg:items-center bg-white lg:py-2 lg:px-4 rounded-b-lg w-full">
                       <img alt="egniolimage" loading="lazy" width="49" height="49" decoding="async" data-nimg="1"
                         class="hidden lg:block size-8" style="color:transparent"
-                        srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon3.366021b4.png&amp;w=64&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon3.366021b4.png&amp;w=128&amp;q=75 2x"
-                        src="https://www.egniol.co.in/_next/serve_icon362d5.png?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon3.366021b4.png&amp;w=128&amp;q=75" />
+                        src="<?php echo base_url('assets/_next/serve_icon362d5.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon3.366021b4.png&amp;w=128&amp;q=75" />
                       <div class="relative inline-block w-full lg:w-1/2"><button
                           class="relative z-10 lg:py-2 py-1 xl:px-8 w-full lg:rounded-full rounded-b-lg bg-[#03518F] border border-[#03518F] transition-colors duration-300 overflow-hidden"><span
                             class="relative z-20 w-full text-white">Avail
@@ -1079,8 +1009,7 @@
                     <div class="flex lg:justify-between lg:items-center bg-white lg:py-2 lg:px-4 rounded-b-lg w-full">
                       <img alt="egniolimage" loading="lazy" width="49" height="49" decoding="async" data-nimg="1"
                         class="hidden lg:block size-8" style="color:transparent"
-                        srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon4.9b2e3b5b.png&amp;w=64&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon4.9b2e3b5b.png&amp;w=128&amp;q=75 2x"
-                        src="https://www.egniol.co.in/_next/serve_icon469ff.png?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon4.9b2e3b5b.png&amp;w=128&amp;q=75" />
+                        src="<?php echo base_url('assets/_next/serve_icon469ff.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon4.9b2e3b5b.png&amp;w=128&amp;q=75" />
                       <div class="relative inline-block w-full lg:w-1/2"><button
                           class="relative z-10 lg:py-2 py-1 xl:px-8 w-full lg:rounded-full rounded-b-lg bg-[#03518F] border border-[#03518F] transition-colors duration-300 overflow-hidden"><span
                             class="relative z-20 w-full text-white">Avail
@@ -1106,8 +1035,7 @@
                     <div class="flex lg:justify-between lg:items-center bg-white lg:py-2 lg:px-4 rounded-b-lg w-full">
                       <img alt="egniolimage" loading="lazy" width="55" height="49" decoding="async" data-nimg="1"
                         class="hidden lg:block size-8" style="color:transparent"
-                        srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon5.87b7f2a8.png&amp;w=64&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon5.87b7f2a8.png&amp;w=128&amp;q=75 2x"
-                        src="https://www.egniol.co.in/_next/serve_icon5d7ff.png?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon5.87b7f2a8.png&amp;w=128&amp;q=75" />
+                        src="<?php echo base_url('assets/_next/serve_icon5d7ff.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon5.87b7f2a8.png&amp;w=128&amp;q=75" />
                       <div class="relative inline-block w-full lg:w-1/2"><button
                           class="relative z-10 lg:py-2 py-1 xl:px-8 w-full lg:rounded-full rounded-b-lg bg-[#03518F] border border-[#03518F] transition-colors duration-300 overflow-hidden"><span
                             class="relative z-20 w-full text-white">Avail
@@ -1133,8 +1061,7 @@
                     <div class="flex lg:justify-between lg:items-center bg-white lg:py-2 lg:px-4 rounded-b-lg w-full">
                       <img alt="egniolimage" loading="lazy" width="68" height="53" decoding="async" data-nimg="1"
                         class="hidden lg:block size-8" style="color:transparent"
-                        srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon6.a1794e57.png&amp;w=96&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon6.a1794e57.png&amp;w=256&amp;q=75 2x"
-                        src="https://www.egniol.co.in/_next/serve_icon6a195.png?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon6.a1794e57.png&amp;w=256&amp;q=75" />
+                        src="<?php echo base_url('assets/_next/serve_icon6a195.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fserve_icon6.a1794e57.png&amp;w=256&amp;q=75" />
                       <div class="relative inline-block w-full lg:w-1/2"><button
                           class="relative z-10 lg:py-2 py-1 xl:px-8 w-full lg:rounded-full rounded-b-lg bg-[#03518F] border border-[#03518F] transition-colors duration-300 overflow-hidden"><span
                             class="relative z-20 w-full text-white">Avail
@@ -1349,14 +1276,12 @@
                     <div class="flex md:hidden justify-center items-center h-20 w-20 mx-auto mt-2"><img
                         alt="egniolimage" loading="lazy" width="112" height="112" decoding="async" data-nimg="1"
                         style="color:transparent"
-                        srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FSetup1.180fdce5.gif&amp;w=128&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FSetup1.180fdce5.gif&amp;w=256&amp;q=75 2x"
-                        src="https://www.egniol.co.in/_next/Setup1f148.gif?url=%2F_next%2Fstatic%2Fmedia%2FSetup1.180fdce5.gif&amp;w=256&amp;q=75" />
+                        src="<?php echo base_url('assets/_next/Setup1f148.gif'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FSetup1.180fdce5.gif&amp;w=256&amp;q=75" />
                     </div>
                     <div class="hidden md:flex justify-center items-center h-20 w-20 md:h-28 md:w-28 mx-auto mt-2"><img
                         alt="egniol-business-setup" loading="lazy" width="112" height="112" decoding="async"
                         data-nimg="1" style="color:transparent"
-                        srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstage1.a8275048.webp&amp;w=128&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstage1.a8275048.webp&amp;w=256&amp;q=75 2x"
-                        src="https://www.egniol.co.in/_next/stage10796.jpeg?url=%2F_next%2Fstatic%2Fmedia%2Fstage1.a8275048.webp&amp;w=256&amp;q=75" />
+                        src="<?php echo base_url('assets/_next/stage10796.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fstage1.a8275048.webp&amp;w=256&amp;q=75" />
                     </div>
                   </div>
                   <div class="md:mt-auto mt-3">
@@ -1382,14 +1307,12 @@
                     <div class="flex md:hidden justify-center items-center h-20 w-20 mx-auto mt-2"><img
                         alt="egniolimage" loading="lazy" width="112" height="112" decoding="async" data-nimg="1"
                         style="color:transparent"
-                        srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FGrowth1.ccec1283.gif&amp;w=128&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FGrowth1.ccec1283.gif&amp;w=256&amp;q=75 2x"
-                        src="https://www.egniol.co.in/_next/Growth1c28a.gif?url=%2F_next%2Fstatic%2Fmedia%2FGrowth1.ccec1283.gif&amp;w=256&amp;q=75" />
+                        src="<?php echo base_url('assets/_next/Growth1c28a.gif'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FGrowth1.ccec1283.gif&amp;w=256&amp;q=75" />
                     </div>
                     <div class="hidden md:flex justify-center items-center h-20 w-20 md:h-28 md:w-28 mx-auto mt-2"><img
                         alt="egniol-business-growth" loading="lazy" width="112" height="112" decoding="async"
                         data-nimg="1" style="color:transparent"
-                        srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstage2.98333348.webp&amp;w=128&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstage2.98333348.webp&amp;w=256&amp;q=75 2x"
-                        src="https://www.egniol.co.in/_next/stage2bbc7.jpeg?url=%2F_next%2Fstatic%2Fmedia%2Fstage2.98333348.webp&amp;w=256&amp;q=75" />
+                        src="<?php echo base_url('assets/_next/stage2bbc7.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fstage2.98333348.webp&amp;w=256&amp;q=75" />
                     </div>
                   </div>
                   <div class="md:mt-auto mt-3">
@@ -1415,14 +1338,12 @@
                     <div class="flex md:hidden justify-center items-center h-20 w-20 mx-auto mt-2"><img
                         alt="egniolimage" loading="lazy" width="112" height="112" decoding="async" data-nimg="1"
                         style="color:transparent"
-                        srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FExpansion1.74ab6752.gif&amp;w=128&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FExpansion1.74ab6752.gif&amp;w=256&amp;q=75 2x"
-                        src="https://www.egniol.co.in/_next/Expansion1a3d2.gif?url=%2F_next%2Fstatic%2Fmedia%2FExpansion1.74ab6752.gif&amp;w=256&amp;q=75" />
+                        src="<?php echo base_url('assets/_next/Expansion1a3d2.gif'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FExpansion1.74ab6752.gif&amp;w=256&amp;q=75" />
                     </div>
                     <div class="hidden md:flex justify-center items-center h-20 w-20 md:h-28 md:w-28 mx-auto mt-2"><img
                         alt="egniol-business-expansion" loading="lazy" width="112" height="112" decoding="async"
                         data-nimg="1" style="color:transparent"
-                        srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstage3.413b9c7b.webp&amp;w=128&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstage3.413b9c7b.webp&amp;w=256&amp;q=75 2x"
-                        src="https://www.egniol.co.in/_next/stage309e3.jpeg?url=%2F_next%2Fstatic%2Fmedia%2Fstage3.413b9c7b.webp&amp;w=256&amp;q=75" />
+                        src="<?php echo base_url('assets/_next/stage309e3.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fstage3.413b9c7b.webp&amp;w=256&amp;q=75" />
                     </div>
                   </div>
                   <div class="md:mt-auto mt-3">
@@ -1449,14 +1370,12 @@
                     <div class="flex md:hidden justify-center items-center h-20 w-20 mx-auto mt-2"><img
                         alt="egniolimage" loading="lazy" width="112" height="112" decoding="async" data-nimg="1"
                         style="color:transparent"
-                        srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FProtection1.775f336c.gif&amp;w=128&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FProtection1.775f336c.gif&amp;w=256&amp;q=75 2x"
-                        src="https://www.egniol.co.in/_next/Protection19354.gif?url=%2F_next%2Fstatic%2Fmedia%2FProtection1.775f336c.gif&amp;w=256&amp;q=75" />
+                        src="<?php echo base_url('assets/_next/Protection19354.gif'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FProtection1.775f336c.gif&amp;w=256&amp;q=75" />
                     </div>
                     <div class="hidden md:flex justify-center items-center h-20 w-20 md:h-28 md:w-28 mx-auto mt-2"><img
                         alt="egniol-business-protection" loading="lazy" width="112" height="112" decoding="async"
                         data-nimg="1" style="color:transparent"
-                        srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstage4.ace7a85b.webp&amp;w=128&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstage4.ace7a85b.webp&amp;w=256&amp;q=75 2x"
-                        src="https://www.egniol.co.in/_next/stage4c593.jpeg?url=%2F_next%2Fstatic%2Fmedia%2Fstage4.ace7a85b.webp&amp;w=256&amp;q=75" />
+                        src="<?php echo base_url('assets/_next/stage4c593.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fstage4.ace7a85b.webp&amp;w=256&amp;q=75" />
                     </div>
                   </div>
                   <div class="md:mt-auto mt-3">
@@ -1484,23 +1403,20 @@
                     <div class="flex md:hidden justify-center items-center mx-auto mt-2">
                       <div class="h-24 w-24"><img alt="egniolimage" loading="lazy" width="144" height="144"
                           decoding="async" data-nimg="1" style="color:transparent"
-                          srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLandBanking.6585994f.gif&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLandBanking.6585994f.gif&amp;w=384&amp;q=75 2x"
-                          src="https://www.egniol.co.in/_next/LandBanking28bc.gif?url=%2F_next%2Fstatic%2Fmedia%2FLandBanking.6585994f.gif&amp;w=384&amp;q=75" />
+                          src="<?php echo base_url('assets/_next/LandBanking28bc.gif'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FLandBanking.6585994f.gif&amp;w=384&amp;q=75" />
                       </div>
                     </div>
                     <div class="hidden sm:flex md:hidden justify-center items-center mx-auto mt-2">
                       <div class="h-36 w-36"><img alt="egniolimage" loading="lazy" width="144" height="144"
                           decoding="async" data-nimg="1" style="color:transparent"
-                          srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLandBanking.6585994f.gif&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLandBanking.6585994f.gif&amp;w=384&amp;q=75 2x"
-                          src="https://www.egniol.co.in/_next/LandBanking28bc.gif?url=%2F_next%2Fstatic%2Fmedia%2FLandBanking.6585994f.gif&amp;w=384&amp;q=75" />
+                          src="<?php echo base_url('assets/_next/LandBanking28bc.gif'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FLandBanking.6585994f.gif&amp;w=384&amp;q=75" />
                       </div>
                     </div>
                     <div class="hidden md:flex justify-center items-center mx-auto mt-2">
                       <div class="h-28 w-28 sm:h-32 sm:w-32 lg:h-36 lg:w-36 transition-all duration-300"><img
                           alt="egniol-business-setup" loading="lazy" width="144" height="144" decoding="async"
                           data-nimg="1" style="color:transparent"
-                          srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLandBanking.851c9d8a.png&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLandBanking.851c9d8a.png&amp;w=384&amp;q=75 2x"
-                          src="https://www.egniol.co.in/_next/LandBanking995d.png?url=%2F_next%2Fstatic%2Fmedia%2FLandBanking.851c9d8a.png&amp;w=384&amp;q=75" />
+                          src="<?php echo base_url('assets/_next/LandBanking995d.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FLandBanking.851c9d8a.png&amp;w=384&amp;q=75" />
                       </div>
                     </div>
                   </div>
@@ -1527,23 +1443,20 @@
                     <div class="flex md:hidden justify-center items-center mx-auto mt-2">
                       <div class="h-24 w-24"><img alt="egniolimage" loading="lazy" width="144" height="144"
                           decoding="async" data-nimg="1" style="color:transparent"
-                          srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FMerger.26252cab.gif&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FMerger.26252cab.gif&amp;w=384&amp;q=75 2x"
-                          src="https://www.egniol.co.in/_next/Mergera3fd.gif?url=%2F_next%2Fstatic%2Fmedia%2FMerger.26252cab.gif&amp;w=384&amp;q=75" />
+                          src="<?php echo base_url('assets/_next/Mergera3fd.gif'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FMerger.26252cab.gif&amp;w=384&amp;q=75" />
                       </div>
                     </div>
                     <div class="hidden sm:flex md:hidden justify-center items-center mx-auto mt-2">
                       <div class="h-36 w-36"><img alt="egniolimage" loading="lazy" width="144" height="144"
                           decoding="async" data-nimg="1" style="color:transparent"
-                          srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FMerger.26252cab.gif&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FMerger.26252cab.gif&amp;w=384&amp;q=75 2x"
-                          src="https://www.egniol.co.in/_next/Mergera3fd.gif?url=%2F_next%2Fstatic%2Fmedia%2FMerger.26252cab.gif&amp;w=384&amp;q=75" />
+                          src="<?php echo base_url('assets/_next/Mergera3fd.gif'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FMerger.26252cab.gif&amp;w=384&amp;q=75" />
                       </div>
                     </div>
                     <div class="hidden md:flex justify-center items-center mx-auto mt-2">
                       <div class="h-28 w-28 sm:h-32 sm:w-32 lg:h-36 lg:w-36 transition-all duration-300"><img
                           alt="egniol-business-expansion" loading="lazy" width="144" height="144" decoding="async"
                           data-nimg="1" style="color:transparent"
-                          srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FMerger.773511d6.png&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FMerger.773511d6.png&amp;w=384&amp;q=75 2x"
-                          src="https://www.egniol.co.in/_next/Mergerfaea.png?url=%2F_next%2Fstatic%2Fmedia%2FMerger.773511d6.png&amp;w=384&amp;q=75" />
+                          src="<?php echo base_url('assets/_next/Mergerfaea.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FMerger.773511d6.png&amp;w=384&amp;q=75" />
                       </div>
                     </div>
                   </div>
@@ -1570,23 +1483,20 @@
                     <div class="flex md:hidden justify-center items-center mx-auto mt-2">
                       <div class="h-24 w-24"><img alt="egniolimage" loading="lazy" width="144" height="144"
                           decoding="async" data-nimg="1" style="color:transparent"
-                          srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FCRM.f4457f01.gif&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FCRM.f4457f01.gif&amp;w=384&amp;q=75 2x"
-                          src="https://www.egniol.co.in/_next/CRMcefb.gif?url=%2F_next%2Fstatic%2Fmedia%2FCRM.f4457f01.gif&amp;w=384&amp;q=75" />
+                          src="<?php echo base_url('assets/_next/CRMcefb.gif'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FCRM.f4457f01.gif&amp;w=384&amp;q=75" />
                       </div>
                     </div>
                     <div class="hidden sm:flex md:hidden justify-center items-center mx-auto mt-2">
                       <div class="h-36 w-36"><img alt="egniolimage" loading="lazy" width="144" height="144"
                           decoding="async" data-nimg="1" style="color:transparent"
-                          srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FCRM.f4457f01.gif&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FCRM.f4457f01.gif&amp;w=384&amp;q=75 2x"
-                          src="_next/CRMcefb.gif?url=%2F_next%2Fstatic%2Fmedia%2FCRM.f4457f01.gif&amp;w=384&amp;q=75" />
+                          src="<?php echo base_url('assets/_next/CRMcefb.gif'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FCRM.f4457f01.gif&amp;w=384&amp;q=75" />
                       </div>
                     </div>
                     <div class="hidden md:flex justify-center items-center mx-auto mt-2">
                       <div class="h-28 w-28 sm:h-32 sm:w-32 lg:h-36 lg:w-36 transition-all duration-300"><img
                           alt="egniol-business-growth" loading="lazy" width="144" height="144" decoding="async"
                           data-nimg="1" style="color:transparent"
-                          srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FCRM.b6c89403.png&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FCRM.b6c89403.png&amp;w=384&amp;q=75 2x"
-                          src="https://www.egniol.co.in/_next/CRMeeca.png?url=%2F_next%2Fstatic%2Fmedia%2FCRM.b6c89403.png&amp;w=384&amp;q=75" />
+                          src="<?php echo base_url('assets/_next/CRMeeca.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FCRM.b6c89403.png&amp;w=384&amp;q=75" />
                       </div>
                     </div>
                   </div>
@@ -1612,23 +1522,20 @@
                     <div class="flex md:hidden justify-center items-center mx-auto mt-2">
                       <div class="h-24 w-24"><img alt="egniolimage" loading="lazy" width="144" height="144"
                           decoding="async" data-nimg="1" style="color:transparent"
-                          srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FTraining.5f572a87.gif&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FTraining.5f572a87.gif&amp;w=384&amp;q=75 2x"
-                          src="https://www.egniol.co.in/_next/Traininged6b.gif?url=%2F_next%2Fstatic%2Fmedia%2FTraining.5f572a87.gif&amp;w=384&amp;q=75" />
+                          src="<?php echo base_url('assets/_next/Traininged6b.gif'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FTraining.5f572a87.gif&amp;w=384&amp;q=75" />
                       </div>
                     </div>
                     <div class="hidden sm:flex md:hidden justify-center items-center mx-auto mt-2">
                       <div class="h-36 w-36"><img alt="egniolimage" loading="lazy" width="144" height="144"
                           decoding="async" data-nimg="1" style="color:transparent"
-                          srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FTraining.5f572a87.gif&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FTraining.5f572a87.gif&amp;w=384&amp;q=75 2x"
-                          src="https://www.egniol.co.in/_next/Traininged6b.gif?url=%2F_next%2Fstatic%2Fmedia%2FTraining.5f572a87.gif&amp;w=384&amp;q=75" />
+                          src="<?php echo base_url('assets/_next/Traininged6b.gif'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FTraining.5f572a87.gif&amp;w=384&amp;q=75" />
                       </div>
                     </div>
                     <div class="hidden md:flex justify-center items-center mx-auto mt-2">
                       <div class="h-28 w-28 sm:h-32 sm:w-32 lg:h-36 lg:w-36 transition-all duration-300"><img
                           alt="egniol-business-protection" loading="lazy" width="144" height="144" decoding="async"
                           data-nimg="1" style="color:transparent"
-                          srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FTraining.2d4f6c6b.png&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FTraining.2d4f6c6b.png&amp;w=384&amp;q=75 2x"
-                          src="https://www.egniol.co.in/_next/Training263c.png?url=%2F_next%2Fstatic%2Fmedia%2FTraining.2d4f6c6b.png&amp;w=384&amp;q=75" />
+                          src="<?php echo base_url('assets/_next/Training263c.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FTraining.2d4f6c6b.png&amp;w=384&amp;q=75" />
                       </div>
                     </div>
                   </div>
@@ -1659,8 +1566,7 @@
                   <div class="bg-white border border-gray-200 rounded-xl mb-2 flex items-center justify-center p-4"><img
                       alt="Business Setup" loading="lazy" width="42" height="42" decoding="async" data-nimg="1"
                       style="color:transparent"
-                      srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbusinessSetup.f9d039ce.webp&amp;w=48&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbusinessSetup.f9d039ce.webp&amp;w=96&amp;q=75 2x"
-                      src="https://www.egniol.co.in/_next/businessSetupba6b.jpeg?url=%2F_next%2Fstatic%2Fmedia%2FbusinessSetup.f9d039ce.webp&amp;w=96&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/businessSetupba6b.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FbusinessSetup.f9d039ce.webp&amp;w=96&amp;q=75" />
                   </div>
                   <h2 class="text-xs font-semibold text-center">Business
                     Setup</h2>
@@ -1669,8 +1575,7 @@
                   <div class="bg-white border border-gray-200 rounded-xl mb-2 flex items-center justify-center p-4"><img
                       alt="Business Growth" loading="lazy" width="42" height="42" decoding="async" data-nimg="1"
                       style="color:transparent"
-                      srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbusinessGrowth.9766c789.webp&amp;w=48&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbusinessGrowth.9766c789.webp&amp;w=96&amp;q=75 2x"
-                      src="https://www.egniol.co.in/_next/businessGrowth3424.jpeg?url=%2F_next%2Fstatic%2Fmedia%2FbusinessGrowth.9766c789.webp&amp;w=96&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/businessGrowth3424.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FbusinessGrowth.9766c789.webp&amp;w=96&amp;q=75" />
                   </div>
                   <h2 class="text-xs font-semibold text-center">Business
                     Growth</h2>
@@ -1679,8 +1584,7 @@
                   <div class="bg-white border border-gray-200 rounded-xl mb-2 flex items-center justify-center p-4"><img
                       alt="Business Expansion" loading="lazy" width="42" height="42" decoding="async" data-nimg="1"
                       style="color:transparent"
-                      srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbusinessExpansion.2b98be2f.webp&amp;w=48&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbusinessExpansion.2b98be2f.webp&amp;w=96&amp;q=75 2x"
-                      src="https://www.egniol.co.in/_next/businessExpansiond1ee.jpeg?url=%2F_next%2Fstatic%2Fmedia%2FbusinessExpansion.2b98be2f.webp&amp;w=96&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/businessExpansiond1ee.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FbusinessExpansion.2b98be2f.webp&amp;w=96&amp;q=75" />
                   </div>
                   <h2 class="text-xs font-semibold text-center">Business
                     Expansion</h2>
@@ -1689,8 +1593,7 @@
                   <div class="bg-white border border-gray-200 rounded-xl mb-2 flex items-center justify-center p-4"><img
                       alt="Business Protection" loading="lazy" width="42" height="42" decoding="async" data-nimg="1"
                       style="color:transparent"
-                      srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbusinessProtection.d8b3f3a2.webp&amp;w=48&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbusinessProtection.d8b3f3a2.webp&amp;w=96&amp;q=75 2x"
-                      src="https://www.egniol.co.in/_next/businessProtection237f.jpeg?url=%2F_next%2Fstatic%2Fmedia%2FbusinessProtection.d8b3f3a2.webp&amp;w=96&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/businessProtection237f.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FbusinessProtection.d8b3f3a2.webp&amp;w=96&amp;q=75" />
                   </div>
                   <h2 class="text-xs font-semibold text-center">Business
                     Protection</h2>
@@ -1699,8 +1602,7 @@
                   <div class="bg-white border border-gray-200 rounded-xl mb-2 flex items-center justify-center p-4"><img
                       alt="Affordable Land Banking" loading="lazy" width="42" height="42" decoding="async" data-nimg="1"
                       style="color:transparent"
-                      srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlandBanking.5f3b30b1.webp&amp;w=48&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlandBanking.5f3b30b1.webp&amp;w=96&amp;q=75 2x"
-                      src="https://www.egniol.co.in/_next/landBanking06c7.jpeg?url=%2F_next%2Fstatic%2Fmedia%2FlandBanking.5f3b30b1.webp&amp;w=96&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/landBanking06c7.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FlandBanking.5f3b30b1.webp&amp;w=96&amp;q=75" />
                   </div>
                   <h2 class="text-xs font-semibold text-center">Affordable Land
                     Banking</h2>
@@ -1709,8 +1611,7 @@
                   <div class="bg-white border border-gray-200 rounded-xl mb-2 flex items-center justify-center p-4"><img
                       alt="Merger &amp; Acquisition" loading="lazy" width="42" height="42" decoding="async"
                       data-nimg="1" style="color:transparent"
-                      srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmerger.99b64439.webp&amp;w=48&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmerger.99b64439.webp&amp;w=96&amp;q=75 2x"
-                      src="https://www.egniol.co.in/_next/merger8406.jpeg?url=%2F_next%2Fstatic%2Fmedia%2Fmerger.99b64439.webp&amp;w=96&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/merger8406.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fmerger.99b64439.webp&amp;w=96&amp;q=75" />
                   </div>
                   <h2 class="text-xs font-semibold text-center">Merger &amp;
                     Acquisition</h2>
@@ -1719,8 +1620,7 @@
                   <div class="bg-white border border-gray-200 rounded-xl mb-2 flex items-center justify-center p-4"><img
                       alt="CRM" loading="lazy" width="42" height="42" decoding="async" data-nimg="1"
                       style="color:transparent"
-                      srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcrm.5472b735.webp&amp;w=48&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcrm.5472b735.webp&amp;w=96&amp;q=75 2x"
-                      src="https://www.egniol.co.in/_next/crma811.jpeg?url=%2F_next%2Fstatic%2Fmedia%2Fcrm.5472b735.webp&amp;w=96&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/crma811.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fcrm.5472b735.webp&amp;w=96&amp;q=75" />
                   </div>
                   <h2 class="text-xs font-semibold text-center">CRM</h2>
                 </a></div>
@@ -1728,8 +1628,7 @@
                   <div class="bg-white border border-gray-200 rounded-xl mb-2 flex items-center justify-center p-4"><img
                       alt="MSME training" loading="lazy" width="42" height="42" decoding="async" data-nimg="1"
                       style="color:transparent"
-                      srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmsmeTraining.95da8138.webp&amp;w=48&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmsmeTraining.95da8138.webp&amp;w=96&amp;q=75 2x"
-                      src="https://www.egniol.co.in/_next/msmeTraining559c.jpeg?url=%2F_next%2Fstatic%2Fmedia%2FmsmeTraining.95da8138.webp&amp;w=96&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/msmeTraining559c.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FmsmeTraining.95da8138.webp&amp;w=96&amp;q=75" />
                   </div>
                   <h2 class="text-xs font-semibold text-center">MSME
                     training</h2>
@@ -1981,14 +1880,13 @@
                   the</span></span> <span class="text-[#E74322] italic font-CustomSemiBold border-b">headlines</span>
             </h2>
             <div class="md:grid-cols-3 grid-cols-2 md:gap-16 gap-x-2 hidden md:grid"><a
-                href="https://theprint.in/brandstand/adon/a-special-workshop-for-sc-entrepreneurs-in-ahmedabad/2405265/">
+                href="#">
                 <div class="w-full flex flex-col justify-center items-center md:max-w-[400px] md:mx-auto">
                   <div
                     class="w-full text-center rounded-lg border hover:border-[#03518f] transition-all duration-300 ease-in-out relative card xl:h-[300px] md:h-[150px] h-[150px]">
                     <img alt="The Print" loading="lazy" width="800" height="149" decoding="async" data-nimg="1"
                       class="w-full h-full object-contain" style="color:transparent"
-                      srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FThePrint_logo.87e75496.webp&amp;w=828&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FThePrint_logo.87e75496.webp&amp;w=1920&amp;q=75 2x"
-                      src="https://www.egniol.co.in/_next/ThePrint_logo969f.jpeg?url=%2F_next%2Fstatic%2Fmedia%2FThePrint_logo.87e75496.webp&amp;w=1920&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/ThePrint_logo969f.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2FThePrint_logo.87e75496.webp&amp;w=1920&amp;q=75" />
                     <div class="hover-shadow1"></div>
                   </div>
                   <p
@@ -2004,8 +1902,7 @@
                     class="w-full text-center rounded-lg border hover:border-[#03518f] transition-all duration-300 ease-in-out relative card xl:h-[300px] md:h-[150px] h-[150px]">
                     <img alt="Ahmedabad Mirror" loading="lazy" width="446" height="446" decoding="async" data-nimg="1"
                       class="w-full h-full object-contain" style="color:transparent"
-                      srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmirror.8108c13a.webp&amp;w=640&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmirror.8108c13a.webp&amp;w=1080&amp;q=75 2x"
-                      src="https://www.egniol.co.in/_next/mirrord9d4.jpeg?url=%2F_next%2Fstatic%2Fmedia%2Fmirror.8108c13a.webp&amp;w=1080&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/mirrord9d4.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Fmirror.8108c13a.webp&amp;w=1080&amp;q=75" />
                     <div class="hover-shadow1"></div>
                   </div>
                   <p
@@ -2021,8 +1918,7 @@
                     class="w-full text-center rounded-lg border hover:border-[#03518f] transition-all duration-300 ease-in-out relative card xl:h-[300px] md:h-[150px] h-[150px]">
                     <img alt="Republic TV" loading="lazy" width="445" height="446" decoding="async" data-nimg="1"
                       class="w-full h-full object-contain" style="color:transparent"
-                      srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F6k_plus3.681a01aa.webp&amp;w=640&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F6k_plus3.681a01aa.webp&amp;w=1080&amp;q=75 2x"
-                      src="https://www.egniol.co.in/_next/6k_plus35617.jpeg?url=%2F_next%2Fstatic%2Fmedia%2F6k_plus3.681a01aa.webp&amp;w=1080&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/6k_plus35617.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2F6k_plus3.681a01aa.webp&amp;w=1080&amp;q=75" />
                     <div class="hover-shadow1"></div>
                   </div>
                   <p
@@ -2032,14 +1928,13 @@
                     startups, Egniol one of...</p>
                 </div>
               </a><a
-                href="https://www.mid-day.com/buzz/article/msme-expo-2024-how-my-msme-house-by-egniol-is-helping-businesses-in-india-2428">
+                href="#">
                 <div class="w-full flex flex-col justify-center items-center md:max-w-[400px] md:mx-auto">
                   <div
                     class="w-full text-center rounded-lg border hover:border-[#03518f] transition-all duration-300 ease-in-out relative card xl:h-[300px] md:h-[150px] h-[150px]">
                     <img alt="Mid-Day" loading="lazy" width="458" height="126" decoding="async" data-nimg="1"
                       class="w-full h-full object-contain" style="color:transparent"
-                      srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.6c53512c.png&amp;w=640&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.6c53512c.png&amp;w=1080&amp;q=75 2x"
-                      src="https://www.egniol.co.in/_next/logo8e95.png?url=%2F_next%2Fstatic%2Fmedia%2Flogo.6c53512c.png&amp;w=1080&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/logo8e95.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Flogo.6c53512c.png&amp;w=1080&amp;q=75" />
                     <div class="hover-shadow1"></div>
                   </div>
                   <p
@@ -2049,14 +1944,13 @@
                     Businesses in India</p>
                 </div>
               </a><a
-                href="https://www.jaanojunction.com/economy/how-this-income-tax-act-is-benefiting-the-indian-economy-section-80iac-explained">
+                href="#">
                 <div class="w-full flex flex-col justify-center items-center md:max-w-[400px] md:mx-auto">
                   <div
                     class="w-full text-center rounded-lg border hover:border-[#03518f] transition-all duration-300 ease-in-out relative card xl:h-[300px] md:h-[150px] h-[150px]">
                     <img alt="Jaano Junction" loading="lazy" width="445" height="446" decoding="async" data-nimg="1"
                       class="w-full h-full object-contain" style="color:transparent"
-                      srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F6k_plus2.45ddfd22.webp&amp;w=640&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F6k_plus2.45ddfd22.webp&amp;w=1080&amp;q=75 2x"
-                      src="https://www.egniol.co.in/_next/6k_plus2f1dd.jpeg?url=%2F_next%2Fstatic%2Fmedia%2F6k_plus2.45ddfd22.webp&amp;w=1080&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/6k_plus2f1dd.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2F6k_plus2.45ddfd22.webp&amp;w=1080&amp;q=75" />
                     <div class="hover-shadow1"></div>
                   </div>
                   <p
@@ -2071,8 +1965,7 @@
                     class="w-full text-center rounded-lg border hover:border-[#03518f] transition-all duration-300 ease-in-out relative card xl:h-[300px] md:h-[150px] h-[150px]">
                     <img alt="7000+ Customer Reviews" loading="lazy" width="469" height="468" decoding="async"
                       data-nimg="1" class="w-full h-full object-contain" style="color:transparent"
-                      srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F6k_plus4.74a80e7e.webp&amp;w=640&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F6k_plus4.74a80e7e.webp&amp;w=1080&amp;q=75 2x"
-                      src="https://www.egniol.co.in/_next/6k_plus43175.jpeg?url=%2F_next%2Fstatic%2Fmedia%2F6k_plus4.74a80e7e.webp&amp;w=1080&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/6k_plus43175.jpeg'); ?>?url=%2F_next%2Fstatic%2Fmedia%2F6k_plus4.74a80e7e.webp&amp;w=1080&amp;q=75" />
                     <div class="hover-shadow1"></div>
                   </div>
                   <p
@@ -2088,8 +1981,7 @@
                     class="w-full text-center rounded-lg border hover:border-[#03518f] transition-all duration-300 ease-in-out relative card xl:h-[300px] md:h-[150px] h-[150px]">
                     <img alt="India.com" loading="lazy" width="259" height="58" decoding="async" data-nimg="1"
                       class="w-full h-full object-contain" style="color:transparent"
-                      srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Findia.d3d2dbdb.png&amp;w=384&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Findia.d3d2dbdb.png&amp;w=640&amp;q=75 2x"
-                      src="https://www.egniol.co.in/_next/india7939.png?url=%2F_next%2Fstatic%2Fmedia%2Findia.d3d2dbdb.png&amp;w=640&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/india7939.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Findia.d3d2dbdb.png&amp;w=640&amp;q=75" />
                     <div class="hover-shadow1"></div>
                   </div>
                   <p
@@ -2105,8 +1997,7 @@
                     class="w-full text-center rounded-lg border hover:border-[#03518f] transition-all duration-300 ease-in-out relative card xl:h-[300px] md:h-[150px] h-[150px]">
                     <img alt="TOI" loading="lazy" width="151" height="167" decoding="async" data-nimg="1"
                       class="w-full h-full object-contain" style="color:transparent"
-                      srcSet="https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftoi.d9648c69.png&amp;w=256&amp;q=75 1x, https://www.egniol.co.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftoi.d9648c69.png&amp;w=384&amp;q=75 2x"
-                      src="https://www.egniol.co.in/_next/toi5704.png?url=%2F_next%2Fstatic%2Fmedia%2Ftoi.d9648c69.png&amp;w=384&amp;q=75" />
+                      src="<?php echo base_url('assets/_next/toi5704.png'); ?>?url=%2F_next%2Fstatic%2Fmedia%2Ftoi.d9648c69.png&amp;w=384&amp;q=75" />
                     <div class="hover-shadow1"></div>
                   </div>
                   <p
@@ -2167,4 +2058,13 @@
     </div>
   </div><!--/$-->
   <div>
-  
+   <script src="<?php echo base_url('assets/_next/static/chunks/webpack-c5ec2870f78c98b0.js'); ?>" async></script>
+  <script>(self.__next_f = self.__next_f || []).push([0]); self.__next_f.push([1, ])</script>
+  <script>self.__next_f.push([1, "1:HL[\"/<?php echo base_url('assets/_next/static/media/4473ecc91f70f139-s.p.woff'); ?>\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff\"}]\n2:HL[\"/<?php echo base_url('assets/_next/static/media/463dafcda517f24f-s.p.woff'); ?>\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff\"}]\n3:HL[\"<?php echo base_url('assets/_next/static/css/27b4d6b789fddb24.css'); ?>\",\"style\"]\n4:HL[\"<?php echo base_url('assets/_next/static/css/972c2e42908ae062.css'); ?>\",\"style\"]\n5:HL[\"<?php echo base_url('assets/_next/static/css/15a460f12b20e8b4.css'); ?>\",\"style\"]\n6:HL[\"<?php echo base_url('assets/_next/static/css/c37340727ca4fe15.css'); ?>\",\"style\"]\n7:HL[\"<?php echo base_url('assets/_next/static/css/ef46db3751d8e999.css'); ?>\",\"style\"]\n8:HL[\"<?php echo base_url('assets/_next/static/css/3a24c022f69a36a9.css'); ?>\",\"style\"]\n9:HL[\"<?php echo base_url('assets/_next/static/css/45d4f6442d75f756.css'); ?>\",\"style\"]\na:HL[\"<?php echo base_url('assets/_next/static/css/d5984089e6bfccc7.css'); ?>\",\"style\"]\nb:HL[\"<?php echo base_url('assets/_next/static/css/8e9f3a4528f04ebd.css'); ?>\",\"style\"]\n"])</script>
+  <script>self.__next_f.push([1, "c:I[12846,[],\"\"]\ne:I[78551,[\"5452\",\"<?php echo base_url('assets/static/chunks/5e22fd23-30ca3ac41aaf008c.js'); ?>\",\"7326\",\"<?php echo base_url('assets/static/chunks/2626716e-28d73a4adf75a725.js'); ?>\",\"6990\",\"<?php echo base_url('assets/static/chunks/13b76428-e1bf383848c17260.js'); ?>\",\"7699\",\"<?php echo base_url('assets/static/chunks/8e1d74a4-1972ab16316e79c4.js'); ?>\",\"6051\",\"<?php echo base_url('assets/static/chunks/795d4814-60544fb5903ebd4f.js'); ?>\",\"7269\",\"<?php echo base_url('assets/static/chunks/053dbec3-44bb8d957b273840.js'); ?>\",\"5878\",\"<?php echo base_url('assets/static/chunks/5878-898e3c8ec78ceee9.js'); ?>\",\"4489\",\"<?php echo base_url('assets/static/chunks/4489-d4054cea1fa203f5.js'); ?>\",\"7342\",\"<?php echo base_url('assets/static/chunks/7342-78980372f72d2592.js'); ?>\",\"8273\",\"<?php echo base_url('assets/static/chunks/8273-b3eb523ae0cd979f.js'); ?>\",\"2972\",\"<?php echo base_url('assets/static/chunks/2972-caae78f044e6e9c0.js'); ?>\",\"353\",\"<?php echo base_url('assets/static/chunks/353-bd7fd0eca07328de.js'); ?>\",\"2045\",\"<?php echo base_url('assets/static/chunks/2045-3953bafdfc179103.js'); ?>\",\"3163\",\"<?php echo base_url('assets/static/chunks/3163-f0abe20f30f49006.js'); ?>\",\"9277\",\"<?php echo base_url('assets/static/chunks/9277-f630a86ee6f6d2f8.js'); ?>\",\"7006\",\"<?php echo base_url('assets/static/chunks/7006-eeda5805ed00c693.js'); ?>\",\"3462\",\"<?php echo base_url('assets/static/chunks/3462-beaab252f35dc0e9.js'); ?>\",\"5892\",\"<?php echo base_url('assets/static/chunks/5892-a7fe02704c3398a7.js'); ?>\",\"1132\",\"<?php echo base_url('assets/static/chunks/1132-abdb3e9f77ec0687.js'); ?>\",\"7386\",\"<?php echo base_url('assets/static/chunks/7386-930db65222edad1f.js'); ?>\",\"376\",\"<?php echo base_url('assets/static/chunks/376-d948fc3e17e24889.js'); ?>\",\"9233\",\"<?php echo base_url('assets/static/chunks/9233-9d3eabc687660b0d.js'); ?>\",\"6417\",\"<?php echo base_url('assets/static/chunks/6417-87909f3b7aff2dbb.js'); ?>\",\"8831\",\"<?php echo base_url('assets/static/chunks/8831-e98e6c4d2344aa65.js'); ?>\",\"6249\",\"<?php echo base_url('assets/static/chunks/6249-3a08ad555384b328.js'); ?>\",\"699\",\"<?php echo base_url('assets/static/chunks/699-fdbdf8fc3fee85d9.js'); ?>\",\"1931\",\"<?php echo base_url('assets/static/chunks/app/page-597658540707cd6f.js'); ?>\"],\"default\"]\nf:I[88003,[\"5452\",\"<?php echo base_url('assets/static/chunks/5e22fd23-30ca3ac41aaf008c.js'); ?>\",\"7699\",\"<?php echo base_url('assets/static/chunks/8e1d74a4-1972ab16316e79c4.js'); ?>\",\"7675\",\"<?php echo base_url('assets/static/chunks/b563f954-f957b9e727a057ca.js'); ?>\",\"6051\",\"<?php echo base_url('assets/static/chunks/795d4814-60544fb5903ebd4f.js'); ?>\",\"522\",\"<?php echo base_url('assets/static/chunks/94730671-09c89803e9e5808f.js'); ?>\",\"7240\",\"<?php echo base_url('assets/static/chunks/53c13509-1350724301cc0c49.js'); ?>\",\"4574\",\"<?php echo base_url('assets/static/chunks/370b0802-3e61cd3f3e490c78.js'); ?>\",\"3665\",\"<?php echo base_url('assets/static/chunks/f97e080b-1e68cff07f144eda.js'); ?>\",\"7259\",\"<?php echo base_url('assets/static/chunks/479ba886-11a03f2e22c0452e.js'); ?>\",\"5878\",\"<?php echo base_url('assets/static/chunks/5878-898e3c8ec78ceee9.js'); ?>\",\"4489\",\"<?php echo base_url('assets/static/chunks/4489-d4054cea1fa203f5.js'); ?>\",\"7342\",\"<?php echo base_url('assets/static/chunks/7342-78980372f72d2592.js'); ?>\",\"8273\",\"<?php echo base_url('assets/static/chunks/8273-b3eb523ae0cd979f.js'); ?>\",\"2972\",\"static/chunk"])</script>
+  <script>self.__next_f.push([1, "s/2972-caae78f044e6e9c0.js\",\"2045\",\"<?php echo base_url('assets/static/chunks/2045-3953bafdfc179103.js'); ?>\",\"3163\",\"<?php echo base_url('assets/static/chunks/3163-f0abe20f30f49006.js'); ?>\",\"9277\",\"<?php echo base_url('assets/static/chunks/9277-f630a86ee6f6d2f8.js'); ?>\",\"7006\",\"<?php echo base_url('assets/static/chunks/7006-eeda5805ed00c693.js'); ?>\",\"5892\",\"<?php echo base_url('assets/static/chunks/5892-a7fe02704c3398a7.js'); ?>\",\"3185\",\"<?php echo base_url('assets/static/chunks/app/layout-cc60013de9bb37ab.js'); ?>\"],\"\"]\n10:I[680,[\"5452\",\"<?php echo base_url('assets/static/chunks/5e22fd23-30ca3ac41aaf008c.js'); ?>\",\"7699\",\"<?php echo base_url('assets/static/chunks/8e1d74a4-1972ab16316e79c4.js'); ?>\",\"7675\",\"<?php echo base_url('assets/static/chunks/b563f954-f957b9e727a057ca.js'); ?>\",\"6051\",\"<?php echo base_url('assets/static/chunks/795d4814-60544fb5903ebd4f.js'); ?>\",\"522\",\"<?php echo base_url('assets/static/chunks/94730671-09c89803e9e5808f.js'); ?>\",\"7240\",\"<?php echo base_url('assets/static/chunks/53c13509-1350724301cc0c49.js'); ?>\",\"4574\",\"<?php echo base_url('assets/static/chunks/370b0802-3e61cd3f3e490c78.js'); ?>\",\"3665\",\"<?php echo base_url('assets/static/chunks/f97e080b-1e68cff07f144eda.js'); ?>\",\"7259\",\"<?php echo base_url('assets/static/chunks/479ba886-11a03f2e22c0452e.js'); ?>\",\"5878\",\"<?php echo base_url('assets/static/chunks/5878-898e3c8ec78ceee9.js'); ?>\",\"4489\",\"<?php echo base_url('assets/static/chunks/4489-d4054cea1fa203f5.js'); ?>\",\"7342\",\"<?php echo base_url('assets/static/chunks/7342-78980372f72d2592.js'); ?>\",\"8273\",\"<?php echo base_url('assets/static/chunks/8273-b3eb523ae0cd979f.js'); ?>\",\"2972\",\"<?php echo base_url('assets/static/chunks/2972-caae78f044e6e9c0.js'); ?>\",\"2045\",\"<?php echo base_url('assets/static/chunks/2045-3953bafdfc179103.js'); ?>\",\"3163\",\"<?php echo base_url('assets/static/chunks/3163-f0abe20f30f49006.js'); ?>\",\"9277\",\"<?php echo base_url('assets/static/chunks/9277-f630a86ee6f6d2f8.js'); ?>\",\"7006\",\"<?php echo base_url('assets/static/chunks/7006-eeda5805ed00c693.js'); ?>\",\"5892\",\"<?php echo base_url('assets/static/chunks/5892-a7fe02704c3398a7.js'); ?>\",\"3185\",\"<?php echo base_url('assets/static/chunks/app/layout-cc60013de9bb37ab.js'); ?>\"],\"default\"]\n11:I[17965,[\"5452\",\"<?php echo base_url('assets/static/chunks/5e22fd23-30ca3ac41aaf008c.js'); ?>\",\"7699\",\"<?php echo base_url('assets/static/chunks/8e1d74a4-1972ab16316e79c4.js'); ?>\",\"7675\",\"<?php echo base_url('assets/static/chunks/b563f954-f957b9e727a057ca.js'); ?>\",\"6051\",\"<?php echo base_url('assets/static/chunks/795d4814-60544fb5903ebd4f.js'); ?>\",\"522\",\"<?php echo base_url('assets/static/chunks/94730671-09c89803e9e5808f.js'); ?>\",\"7240\",\"<?php echo base_url('assets/static/chunks/53c13509-1350724301cc0c49.js'); ?>\",\"4574\",\"<?php echo base_url('assets/static/chunks/370b0802-3e61cd3f3e490c78.js'); ?>\",\"3665\",\"<?php echo base_url('assets/static/chunks/f97e080b-1e68cff07f144eda.js'); ?>\",\"7259\",\"<?php echo base_url('assets/static/chunks/479ba886-11a03f2e22c0452e.js'); ?>\",\"5878\",\"<?php echo base_url('assets/static/chunks/5878-898e3c8ec78ceee9.js'); ?>\",\"4489\",\"<?php echo base_url('assets/static/chunks/4489-d4054cea1fa203f5.js'); ?>\",\"7342\",\"<?php echo base_url('assets/static/chunks/7342-78980372f72d2592.js'); ?>\",\"8273\",\"<?php echo base_url('assets/static/chunks/8273-b3eb523ae0cd979f.js'); ?>\",\"2972\",\"static/chunks/2972-"])</script>
+  <script>self.__next_f.push([1, "caae78f044e6e9c0.js\",\"2045\",\"<?php echo base_url('assets/static/chunks/2045-3953bafdfc179103.js'); ?>\",\"3163\",\"<?php echo base_url('assets/static/chunks/3163-f0abe20f30f49006.js'); ?>\",\"9277\",\"<?php echo base_url('assets/static/chunks/9277-f630a86ee6f6d2f8.js'); ?>\",\"7006\",\"<?php echo base_url('assets/static/chunks/7006-eeda5805ed00c693.js'); ?>\",\"5892\",\"<?php echo base_url('assets/static/chunks/5892-a7fe02704c3398a7.js'); ?>\",\"3185\",\"<?php echo base_url('assets/static/chunks/app/layout-cc60013de9bb37ab.js'); ?>\"],\"default\"]\n12:I[33579,[\"5452\",\"<?php echo base_url('assets/static/chunks/5e22fd23-30ca3ac41aaf008c.js'); ?>\",\"7699\",\"<?php echo base_url('assets/static/chunks/8e1d74a4-1972ab16316e79c4.js'); ?>\",\"7675\",\"<?php echo base_url('assets/static/chunks/b563f954-f957b9e727a057ca.js'); ?>\",\"6051\",\"<?php echo base_url('assets/static/chunks/795d4814-60544fb5903ebd4f.js'); ?>\",\"522\",\"<?php echo base_url('assets/static/chunks/94730671-09c89803e9e5808f.js'); ?>\",\"7240\",\"<?php echo base_url('assets/static/chunks/53c13509-1350724301cc0c49.js'); ?>\",\"4574\",\"<?php echo base_url('assets/static/chunks/370b0802-3e61cd3f3e490c78.js'); ?>\",\"3665\",\"<?php echo base_url('assets/static/chunks/f97e080b-1e68cff07f144eda.js'); ?>\",\"7259\",\"<?php echo base_url('assets/static/chunks/479ba886-11a03f2e22c0452e.js'); ?>\",\"5878\",\"<?php echo base_url('assets/static/chunks/5878-898e3c8ec78ceee9.js'); ?>\",\"4489\",\"<?php echo base_url('assets/static/chunks/4489-d4054cea1fa203f5.js'); ?>\",\"7342\",\"<?php echo base_url('assets/static/chunks/7342-78980372f72d2592.js'); ?>\",\"8273\",\"<?php echo base_url('assets/static/chunks/8273-b3eb523ae0cd979f.js'); ?>\",\"2972\",\"<?php echo base_url('assets/static/chunks/2972-caae78f044e6e9c0.js'); ?>\",\"2045\",\"<?php echo base_url('assets/static/chunks/2045-3953bafdfc179103.js'); ?>\",\"3163\",\"<?php echo base_url('assets/static/chunks/3163-f0abe20f30f49006.js'); ?>\",\"9277\",\"<?php echo base_url('assets/static/chunks/9277-f630a86ee6f6d2f8.js'); ?>\",\"7006\",\"<?php echo base_url('assets/static/chunks/7006-eeda5805ed00c693.js'); ?>\",\"5892\",\"<?php echo base_url('assets/static/chunks/5892-a7fe02704c3398a7.js'); ?>\",\"3185\",\"<?php echo base_url('assets/static/chunks/app/layout-cc60013de9bb37ab.js'); ?>\"],\"default\"]\n13:\"$Sreact.suspense\"\n14:I[4707,[],\"\"]\n15:I[36423,[],\"\"]\n16:I[30521,[\"4489\",\"<?php echo base_url('assets/static/chunks/4489-d4054cea1fa203f5.js'); ?>\",\"7342\",\"<?php echo base_url('assets/static/chunks/7342-78980372f72d2592.js'); ?>\",\"8273\",\"<?php echo base_url('assets/static/chunks/8273-b3eb523ae0cd979f.js'); ?>\",\"9160\",\"<?php echo base_url('assets/static/chunks/app/not-found-cc894e539f6ee31c.js'); ?>\"],\"default\"]\n17:I[1767,[\"5452\",\"<?php echo base_url('assets/static/chunks/5e22fd23-30ca3ac41aaf008c.js'); ?>\",\"7699\",\"<?php echo base_url('assets/static/chunks/8e1d74a4-1972ab16316e79c4.js'); ?>\",\"7675\",\"<?php echo base_url('assets/static/chunks/b563f954-f957b9e727a057ca.js'); ?>\",\"6051\",\"<?php echo base_url('assets/static/chunks/795d4814-60544fb5903ebd4f.js'); ?>\",\"522\",\"<?php echo base_url('assets/static/chunks/94730671-09c89803e9e5808f.js'); ?>\",\"7240\",\"<?php echo base_url('assets/static/chunks/53c13509-1350724301cc0c49.js'); ?>\",\"4574\",\"<?php echo base_url('assets/static/chunks/370b0802-3e61cd3f3e490c78.js'); ?>\",\"3665\",\"static/chunks/f97e080b-1e68cff07"])</script>
+  <script>self.__next_f.push([1, "f144eda.js\",\"7259\",\"<?php echo base_url('assets/static/chunks/479ba886-11a03f2e22c0452e.js'); ?>\",\"5878\",\"<?php echo base_url('assets/static/chunks/5878-898e3c8ec78ceee9.js'); ?>\",\"4489\",\"<?php echo base_url('assets/static/chunks/4489-d4054cea1fa203f5.js'); ?>\",\"7342\",\"<?php echo base_url('assets/static/chunks/7342-78980372f72d2592.js'); ?>\",\"8273\",\"<?php echo base_url('assets/static/chunks/8273-b3eb523ae0cd979f.js'); ?>\",\"2972\",\"<?php echo base_url('assets/static/chunks/2972-caae78f044e6e9c0.js'); ?>\",\"2045\",\"<?php echo base_url('assets/static/chunks/2045-3953bafdfc179103.js'); ?>\",\"3163\",\"<?php echo base_url('assets/static/chunks/3163-f0abe20f30f49006.js'); ?>\",\"9277\",\"<?php echo base_url('assets/static/chunks/9277-f630a86ee6f6d2f8.js'); ?>\",\"7006\",\"<?php echo base_url('assets/static/chunks/7006-eeda5805ed00c693.js'); ?>\",\"5892\",\"<?php echo base_url('assets/static/chunks/5892-a7fe02704c3398a7.js'); ?>\",\"3185\",\"<?php echo base_url('assets/static/chunks/app/layout-cc60013de9bb37ab.js'); ?>\"],\"default\"]\n19:I[61060,[],\"\"]\n1a:[]\n"])</script>
+  <script>self.__next_f.push([1, "0:[\"$\",\"$Lc\",null,{\"buildId\":\"68GdnzWs8iFayfqCEfwGS\",\"assetPrefix\":\"\",\"urlParts\":[\"\",\"\"],\"initialTree\":[\"\",{\"children\":[\"__PAGE__\",{}]},\"$undefined\",\"$undefined\",true],\"initialSeedData\":[\"\",{\"children\":[\"__PAGE__\",{},[[\"$Ld\",[\"$\",\"div\",null,{\"children\":[\"$\",\"$Le\",null,{}]}],[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"<?php echo base_url('assets/_next/static/css/3a24c022f69a36a9.css'); ?>\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"<?php echo base_url('assets/_next/static/css/45d4f6442d75f756.css'); ?>\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"2\",{\"rel\":\"stylesheet\",\"href\":\"<?php echo base_url('assets/_next/static/css/d5984089e6bfccc7.css'); ?>\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"3\",{\"rel\":\"stylesheet\",\"href\":\"<?php echo base_url('assets/_next/static/css/8e9f3a4528f04ebd.css'); ?>\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}]]],null],null]},[[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"<?php echo base_url('assets/_next/static/css/27b4d6b789fddb24.css'); ?>\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"<?php echo base_url('assets/_next/static/css/972c2e42908ae062.css'); ?>\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"2\",{\"rel\":\"stylesheet\",\"href\":\"<?php echo base_url('assets/_next/static/css/15a460f12b20e8b4.css'); ?>\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"3\",{\"rel\":\"stylesheet\",\"href\":\"<?php echo base_url('assets/_next/static/css/c37340727ca4fe15.css'); ?>\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"4\",{\"rel\":\"stylesheet\",\"href\":\"<?php echo base_url('assets/_next/static/css/ef46db3751d8e999.css'); ?>\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}]],[\"$\",\"html\",null,{\"lang\":\"en\",\"children\":[[\"$\",\"head\",null,{\"children\":[[\"$\",\"meta\",null,{\"charSet\":\"utf-8\"}],[\"$\",\"meta\",null,{\"name\":\"viewport\",\"content\":\"width=device-width\"}],[\"$\",\"meta\",null,{\"name\":\"msvalidate.01\",\"content\":\"DC61B4AC430FCD499F3B5F4AAD4E6FCF\"}],[\"$\",\"link\",null,{\"rel\":\"icon\",\"href\":\"/\"}],[\"$\",\"link\",null,{\"href\":\"https://fonts.googleapis.com/css2?family=Bebas+Neue\u0026display=swap\",\"rel\":\"stylesheet\"}],[\"$\",\"link\",null,{\"rel\":\"preload\",\"href\":\"/font/Graphik-Regular-Trial.otf\",\"as\":\"font\",\"type\":\"font/otf\",\"crossOrigin\":\"anonymous\"}],[\"$\",\"link\",null,{\"rel\":\"preload\",\"href\":\"/font/Graphik-Semibold-Trial.otf\",\"as\":\"font\",\"type\":\"font/otf\",\"crossOrigin\":\"anonymous\"}],[\"$\",\"meta\",null,{\"property\":\"og:type\",\"content\":\"website\"}],[\"$\",\"script\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"\\n        !function(f,b,e,v,n,t,s)\\n        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\\n        n.callMethod.apply(n,arguments):n.queue.push(arguments)};\\n        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\\n        n.queue=[];t=b.createElement(e);t.async=!0;\\n        t.src=v;s=b.getElementsByTagName(e)[0];\\n        s.parentNode.insertBefore(t,s)}(window, document,'script',\\n        '../connect.facebook.net/en_US/fbevents.js');\\n        fbq('init', '2538097152995034');\\n        fbq('track', 'PageView');\\n      \"}}],[\"$\",\"$Lf\",null,{\"async\":true,\"src\":\"../pagead2.googlesyndication.com/pagead/js/f09b9.txt?client=ca-pub-1357966710240118\",\"crossOrigin\":\"anonymous\"}],[\"$\",\"script\",null,{\"type\":\"text/javascript\",\"dangerouslySetInnerHTML\":{\"__html\":\"\\n              (function(c,l,a,r,i,t,y){\\n                c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};\\n                t=l.createElement(r);t.async=1;t.src=\\\"https://www.clarity.ms/tag/\\\"+i;\\n                y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);\\n              })(window, document, \\\"clarity\\\", \\\"script\\\", \\\"njy0ztkmcp\\\");\\n            \"}}],[\"$\",\"script\",null,{\"type\":\"text/javascript\",\"dangerouslySetInnerHTML\":{\"__html\":\"\\n             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\\nj=d.createElement(s),dl=l!='dataLayer'?'\u0026l='+l:'';j.async=true;j.src=\\n'../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);\\n})(window,document,'script','dataLayer','GTM-MHKF5NXM');\\n            \"}}],[\"$\",\"script\",null,{\"type\":\"application/ld+json\",\"dangerouslySetInnerHTML\":{\"__html\":\"{\\n  \\\"@context\\\": \\\"https://schema.org/\\\",\\n  \\\"@type\\\": \\\"Corporation\\\",\\n  \\\"name\\\": \\\"Egniol - Business Loans, MSME Loans Consultancy, Working Capital Finance In India\\\",\\n  \\\"url\\\": \\\"#\\\",\\n  \\\"logo\\\": \\\"logo.png\\\",\\n  \\\"contactPoint\\\": {\\n    \\\"@type\\\": \\\"ContactPoint\\\",\\n    \\\"telephone\\\": \\\"1800 571 7000\\\",\\n    \\\"contactType\\\": \\\"customer service\\\",\\n    \\\"contactOption\\\": \\\"TollFree\\\",\\n    \\\"areaServed\\\": \\\"IN\\\",\\n    \\\"availableLanguage\\\": [\\\"en\\\",\\\"Hindi\\\",\\\"Gujarati\\\",\\\"Tamil\\\"]\\n  },\\n  \\\"sameAs\\\": [\\n    \\\"https://www.facebook.com/Egniol/\\\",\\n    \\\"https://www.instagram.com/egniolgroup/\\\",\\n    \\\"https://www.youtube.com/@egniol\\\",\\n    \\\"https://in.linkedin.com/company/egniol-group\\\"\\n  ]\\n}\\n\"}}],[\"$\",\"script\",null,{\"type\":\"application/ld+json\",\"dangerouslySetInnerHTML\":{\"__html\":\"{\\n  \\\"@context\\\": \\\"https://schema.org/\\\",\\n  \\\"@type\\\": \\\"WebSite\\\",\\n  \\\"name\\\": \\\"Egniol\\\",\\n  \\\"url\\\": \\\"#\\\",\\n  \\\"potentialAction\\\": {\\n    \\\"@type\\\": \\\"SearchAction\\\",\\n    \\\"target\\\": \\\"{search_term_string}\\\",\\n    \\\"query-input\\\": \\\"required name=search_term_string\\\"\\n  }\\n}\\n\\n\"}}]]}],[\"$\",\"body\",null,{\"className\":\"__variable_1e4310 __variable_c3aa02 antialiased\",\"children\":[[\"$\",\"noscript\",null,{\"children\":[\"$\",\"iframe\",null,{\"src\":\"https://www.googletagmanager.com/ns.html?id=GTM-MHKF5NXM\",\"height\":\"0\",\"width\":\"0\",\"style\":{\"display\":\"none\",\"visibility\":\"hidden\"}}]}],[\"$\",\"$L10\",null,{}],[\"$\",\"$L11\",null,{\"fromPage\":\"Flotting Button\"}],[\"$\",\"$L12\",null,{}],[\"$\",\"$13\",null,{\"fallback\":[\"$\",\"div\",null,{\"children\":\"Loading...\"}],\"children\":[\"$\",\"$L14\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\"],\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L15\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[\"$\",\"$L16\",null,{}],\"notFoundStyles\":[]}]}],[\"$\",\"$L17\",null,{}]]}]]}]],null],null],\"couldBeIntercepted\":false,\"initialHead\":[null,\"$L18\"],\"globalErrorComponent\":\"$19\",\"missingSlots\":\"$W1a\"}]\n"])</script>
+  <script>self.__next_f.push([1, "18:[[\"$\",\"meta\",\"0\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}],[\"$\",\"meta\",\"1\",{\"charSet\":\"utf-8\"}],[\"$\",\"title\",\"2\",{\"children\":\"Egniol - Business Loans, MSME Loans Consultancy, Working Capital Finance In India\"}],[\"$\",\"meta\",\"3\",{\"name\":\"description\",\"content\":\"Egniol offers customized business loans, MSME financing, and working capital solutions in India, helping businesses grow and long-term success.\"}],[\"$\",\"link\",\"4\",{\"rel\":\"canonical\",\"href\":\"https://www.egniol.co.in/\"}],[\"$\",\"meta\",\"5\",{\"property\":\"og:title\",\"content\":\"Egniol - Business Loans, MSME Loans Consultancy, Working Capital Finance In India\"}],[\"$\",\"meta\",\"6\",{\"property\":\"og:description\",\"content\":\"Egniol offers customized business loans, MSME financing, and working capital solutions in India, helping businesses grow and long-term success.\"}],[\"$\",\"meta\",\"7\",{\"property\":\"og:url\",\"content\":\"https://www.egniol.co.in/\"}],[\"$\",\"meta\",\"8\",{\"property\":\"og:site_name\",\"content\":\"Egniol\"}],[\"$\",\"meta\",\"9\",{\"property\":\"og:locale\",\"content\":\"en_US\"}],[\"$\",\"meta\",\"10\",{\"property\":\"og:image\",\"content\":\"https://www.egniol.co.in/favicon.ico\"}],[\"$\",\"meta\",\"11\",{\"property\":\"og:image:width\",\"content\":\"500\"}],[\"$\",\"meta\",\"12\",{\"property\":\"og:image:height\",\"content\":\"500\"}],[\"$\",\"meta\",\"13\",{\"property\":\"og:image:alt\",\"content\":\"Egniol\"}],[\"$\",\"meta\",\"14\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"$\",\"meta\",\"15\",{\"name\":\"twitter:card\",\"content\":\"summary_large_image\"}],[\"$\",\"meta\",\"16\",{\"name\":\"twitter:title\",\"content\":\"Egniol - Business Loans, MSME Loans Consultancy, Working Capital Finance In India\"}],[\"$\",\"meta\",\"17\",{\"name\":\"twitter:description\",\"content\":\"Egniol offers customized business loans, MSME financing, and working capital solutions in India, helping businesses grow and long-term success.\"}],[\"$\",\"meta\",\"18\",{\"name\":\"twitter:image\",\"content\":\"https://www.egniol.co.in/favicon.ico\"}],[\"$\",\"link\",\"19\",{\"rel\":\"icon\",\"href\":\"/favicon.ico\",\"type\":\"image/x-icon\",\"sizes\":\"80x80\"}],[\"$\",\"meta\",\"20\",{\"name\":\"next-size-adjust\"}]]\nd:null"])</script>
+  <script>self.__next_f.push([1, "\n"])</script>
